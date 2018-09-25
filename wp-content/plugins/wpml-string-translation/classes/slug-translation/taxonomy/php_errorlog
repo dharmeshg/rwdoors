@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:59 CST6CDT] PHP Fatal error:  Class 'WPML_ST_Slug_Translation_Settings' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/classes/slug-translation/taxonomy/wpml-st-tax-slug-translation-settings.php on line 3
+[23-Jul-2018 08:46:01 CST6CDT] PHP Fatal error:  Class 'WPML_Slug_Translation_Records' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/classes/slug-translation/taxonomy/wpml-tax-slug-translation-records.php on line 3

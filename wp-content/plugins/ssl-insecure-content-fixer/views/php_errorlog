@@ -1,0 +1,8 @@
+[23-Jul-2018 08:45:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/ssl-insecure-content-fixer/views/requires-extensions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/ssl-insecure-content-fixer/views/requires-extensions.php on line 3
+[23-Jul-2018 08:45:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/ssl-insecure-content-fixer/views/requires-pcre.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/ssl-insecure-content-fixer/views/requires-pcre.php on line 3

@@ -1,0 +1,16 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WPML_ST_Slug_Translation_Settings' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/menu/_slug-translation-options.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/menu/_slug-translation-options.php on line 2
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_active_languages() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/menu/auto-download-mo.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/menu/auto-download-mo.php on line 5
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function wpml_st_load_admin_texts() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/menu/string-translation-translate-options.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/menu/string-translation-translate-options.php on line 2
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_strings_settings() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/menu/string-translation.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/menu/string-translation.php on line 5

@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function wp_enqueue_script() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/portfolio-filter-gallery/our-theme/awp-theme.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/portfolio-filter-gallery/our-theme/awp-theme.php on line 3

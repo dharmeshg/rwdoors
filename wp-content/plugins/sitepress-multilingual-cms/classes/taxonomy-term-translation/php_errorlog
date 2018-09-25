@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:35 CST6CDT] PHP Fatal error:  Class 'WPML_Full_Translation_API' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/taxonomy-term-translation/class-wpml-term-actions.php on line 10
+[23-Jul-2018 08:45:35 CST6CDT] PHP Fatal error:  Class 'WPML_WPDB_And_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/taxonomy-term-translation/class-wpml-term-language-synchronization.php on line 11

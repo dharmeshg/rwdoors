@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:23 CST6CDT] PHP Fatal error:  Interface 'WPMailSMTP\Admin\PageInterface' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-mail-smtp/src/Admin/PageAbstract.php on line 10

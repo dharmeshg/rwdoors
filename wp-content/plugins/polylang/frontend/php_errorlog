@@ -1,0 +1,9 @@
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Class 'PLL_Choose_lang' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/frontend/choose-lang-content.php on line 9
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Class 'PLL_Choose_Lang_Url' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/frontend/choose-lang-domain.php on line 8
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Class 'PLL_Choose_lang' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/frontend/choose-lang-url.php on line 10
+[23-Jul-2018 08:45:00 CST6CDT] PHP Fatal error:  Class 'PLL_Filters_Links' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/frontend/frontend-filters-links.php on line 8
+[23-Jul-2018 08:45:00 CST6CDT] PHP Fatal error:  Class 'PLL_Filters' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/frontend/frontend-filters.php on line 8
+[23-Jul-2018 08:45:01 CST6CDT] PHP Fatal error:  Class 'PLL_Links' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/frontend/frontend-links.php on line 8
+[23-Jul-2018 08:45:01 CST6CDT] PHP Fatal error:  Class 'PLL_Nav_Menu' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/frontend/frontend-nav-menu.php on line 8
+[23-Jul-2018 08:45:01 CST6CDT] PHP Fatal error:  Class 'PLL_Static_Pages' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/frontend/frontend-static-pages.php on line 8
+[23-Jul-2018 08:45:02 CST6CDT] PHP Fatal error:  Class 'PLL_Base' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/frontend/frontend.php on line 23

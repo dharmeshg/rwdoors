@@ -1,0 +1,9 @@
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/wordpress/init.php:106
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/wordpress/init.php on line 106
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/wordpress/platform.php:14
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/wordpress/platform.php(152): N2Platform::init()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/wordpress/platform.php on line 14

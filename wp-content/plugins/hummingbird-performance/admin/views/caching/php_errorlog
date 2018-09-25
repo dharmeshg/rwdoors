@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/caching/browser-caching-configure-meta-box-header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/caching/browser-caching-configure-meta-box-header.php on line 12

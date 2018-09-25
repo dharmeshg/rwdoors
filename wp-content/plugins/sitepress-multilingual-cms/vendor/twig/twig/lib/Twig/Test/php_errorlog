@@ -1,0 +1,5 @@
+[23-Jul-2018 08:46:06 CST6CDT] PHP Fatal error:  Class 'Twig_Test' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/Test/Function.php on line 21
+[23-Jul-2018 08:46:06 CST6CDT] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/Test/IntegrationTestCase.php on line 18
+[23-Jul-2018 08:46:07 CST6CDT] PHP Fatal error:  Class 'Twig_Test' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/Test/Method.php on line 21
+[23-Jul-2018 08:46:07 CST6CDT] PHP Fatal error:  Class 'Twig_Test' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/Test/Node.php on line 21
+[23-Jul-2018 08:46:07 CST6CDT] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/Test/NodeTestCase.php on line 11

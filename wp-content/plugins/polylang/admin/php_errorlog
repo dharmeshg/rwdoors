@@ -1,0 +1,9 @@
+[23-Jul-2018 08:45:00 CST6CDT] PHP Fatal error:  Class 'PLL_Base' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/admin/admin-base.php on line 8
+[23-Jul-2018 08:45:00 CST6CDT] PHP Fatal error:  Class 'PLL_Admin_Filters_Post_Base' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/admin/admin-filters-media.php on line 9
+[23-Jul-2018 08:45:01 CST6CDT] PHP Fatal error:  Class 'PLL_Admin_Filters_Post_Base' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/admin/admin-filters-post.php on line 8
+[23-Jul-2018 08:45:02 CST6CDT] PHP Fatal error:  Class 'PLL_Filters' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/admin/admin-filters.php on line 8
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Class 'PLL_Links' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/admin/admin-links.php on line 8
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Class 'PLL_Model' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/admin/admin-model.php on line 8
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Class 'PLL_Nav_Menu' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/admin/admin-nav-menu.php on line 8
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Class 'PLL_Static_Pages' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/admin/admin-static-pages.php on line 8
+[23-Jul-2018 08:45:07 CST6CDT] PHP Fatal error:  Class 'PLL_Admin_Base' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/admin/admin.php on line 26

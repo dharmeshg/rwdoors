@@ -1,0 +1,4 @@
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-thumbnail-slider/wp-thumbnail-slider.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-thumbnail-slider/wp-thumbnail-slider.php on line 50

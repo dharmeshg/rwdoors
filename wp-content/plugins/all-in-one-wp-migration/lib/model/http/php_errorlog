@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:28 CST6CDT] PHP Fatal error:  Class 'Ai1wm_Http_Abstract' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/model/http/class-ai1wm-http-curl.php on line 26
+[23-Jul-2018 08:45:29 CST6CDT] PHP Fatal error:  Class 'Ai1wm_Http_Abstract' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/model/http/class-ai1wm-http-stream.php on line 26

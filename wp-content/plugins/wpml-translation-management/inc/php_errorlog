@@ -1,0 +1,18 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'WPML_TM_PATH/menu/basket-tab/wpml-basket-tab-ajax.class.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/ajax.php on line 4
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugins_url() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/constants.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/constants.php on line 4
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/functions-load.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/functions-load.php on line 185
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/js-scripts.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/js-scripts.php on line 75
+[23-Jul-2018 08:45:07 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'WPML_TM_PATH/inc/translation-jobs/helpers/wpml-translation-job-helper.class.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/wpml-private-actions.php on line 2
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/wpml-private-filters.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/wpml-private-filters.php on line 18

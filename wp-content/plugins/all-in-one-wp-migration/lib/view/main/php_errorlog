@@ -1,0 +1,36 @@
+[23-Jul-2018 08:45:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function wp_make_link_relative() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/admin-head.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/admin-head.php on line 4
+[23-Jul-2018 08:45:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/backups-htaccess-notice.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/backups-htaccess-notice.php on line 5
+[23-Jul-2018 08:45:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/backups-index-notice.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/backups-index-notice.php on line 5
+[23-Jul-2018 08:45:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/backups-path-notice.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/backups-path-notice.php on line 5
+[23-Jul-2018 08:45:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/backups-webconfig-notice.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/backups-webconfig-notice.php on line 5
+[23-Jul-2018 08:45:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/get-support.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/get-support.php on line 1
+[23-Jul-2018 08:45:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/multisite-notice.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/multisite-notice.php on line 4
+[23-Jul-2018 08:45:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/storage-index-notice.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/storage-index-notice.php on line 5
+[23-Jul-2018 08:45:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/storage-path-notice.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/main/storage-path-notice.php on line 5

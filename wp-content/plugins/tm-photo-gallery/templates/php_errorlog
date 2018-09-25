@@ -1,0 +1,8 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/templates/single-tm_pg_album.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/templates/single-tm_pg_album.php on line 1
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/templates/single-tm_pg_set.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/templates/single-tm_pg_set.php on line 1

@@ -1,0 +1,5 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Class 'WP_Hummingbird_Module' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/core/class-abstract-module-server.php on line 9
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/core/settings-hooks.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/core/settings-hooks.php on line 3

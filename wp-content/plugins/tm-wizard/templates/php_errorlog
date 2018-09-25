@@ -1,0 +1,44 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function tm_wizard() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/page-footer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/page-footer.php on line 6
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/plugin-item.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/plugin-item.php on line 8
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/service-notice.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/service-notice.php on line 6
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function tm_wizard_interface() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/skin-item.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/skin-item.php on line 6
+[23-Jul-2018 08:45:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/step-after-install.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/step-after-install.php on line 6
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function tm_wizard_interface() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/step-before-install.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/step-before-install.php on line 6
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/step-configure-plugins.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/step-configure-plugins.php on line 6
+[23-Jul-2018 08:45:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/step-install.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/step-install.php on line 6
+[23-Jul-2018 08:45:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function tm_wizard_interface() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/step-select-type.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/step-select-type.php on line 6
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/step-service-notice.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/step-service-notice.php on line 6
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function tm_wizard_settings() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/wizard-notice.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-wizard/templates/wizard-notice.php on line 6

@@ -1,0 +1,5 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/maintenance/maintenance.php:11
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/maintenance/maintenance.php(33): Easy_Testimonials_Maintenance->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/maintenance/maintenance.php on line 11

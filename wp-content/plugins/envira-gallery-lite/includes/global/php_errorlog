@@ -1,0 +1,18 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/global/common.php:47
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/global/common.php(1101): Envira_Gallery_Common->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/global/common.php(1111): Envira_Gallery_Common::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/global/common.php on line 47
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/global/posttype.php:47
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/global/posttype.php(99): Envira_Gallery_Posttype->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/global/posttype.php(109): Envira_Gallery_Posttype::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/global/posttype.php on line 47
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/global/shortcode.php:87
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/global/shortcode.php(2014): Envira_Gallery_Shortcode->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/global/shortcode.php(2024): Envira_Gallery_Shortcode::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/global/shortcode.php on line 87

@@ -1,0 +1,8 @@
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function content_url() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/js-css-script-optimizer/js-css-script-optimizer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/js-css-script-optimizer/js-css-script-optimizer.php on line 12
+[23-Aug-2018 20:29:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function content_url() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/js-css-script-optimizer/js-css-script-optimizer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/js-css-script-optimizer/js-css-script-optimizer.php on line 12

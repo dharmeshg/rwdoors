@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:33 CST6CDT] PHP Fatal error:  Interface 'IWPML_Frontend_Action_Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/settings/wpml-tm-default-settings-factory.php on line 3
+[23-Jul-2018 08:45:34 CST6CDT] PHP Fatal error:  Interface 'IWPML_Action' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/settings/wpml-tm-default-settings.php on line 3

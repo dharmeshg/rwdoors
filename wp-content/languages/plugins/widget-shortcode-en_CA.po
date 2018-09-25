@@ -1,0 +1,38 @@
+# Translation of Plugins - Widget Shortcode - Development (trunk) in English (Canada)
+# This file is distributed under the same license as the Plugins - Widget Shortcode - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-06 22:52:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - Widget Shortcode - Development (trunk)\n"
+
+#: init.php:77
+msgid "This widget area is not displayed on frontend and can be used for [widget] shortcode."
+msgstr "This widget area is not displayed on frontend and can be used for [widget] shortcode."
+
+#. Author of the plugin/theme
+msgid "Hassan Derakhshandeh"
+msgstr "Hassan Derakhshandeh"
+
+#. #-#-#-#-#  widget-shortcode-code.pot (Widget Shortcode 0.3.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: init.php:76 init.php:279
+msgid "Widget Shortcode"
+msgstr "Widget Shortcode"
+
+#. Description of the plugin/theme
+msgid "Output widgets using a simple shortcode."
+msgstr "Output widgets using a simple shortcode."
+
+#: init.php:91
+msgid "Please save this first."
+msgstr "Please save this first."
+
+#: init.php:91
+msgid "Shortcode"
+msgstr "Shortcode"

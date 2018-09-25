@@ -1,0 +1,7 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Class 'tm_photo_gallery\classes\Core' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/classes/class-controller.php on line 16
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Class 'tm_photo_gallery\classes\Core' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/classes/class-hooks.php on line 19
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Class 'tm_photo_gallery\classes\Core' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/classes/class-media.php on line 21
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Class 'tm_photo_gallery\classes\Core' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/classes/class-model.php on line 15
+[23-Jul-2018 08:45:07 CST6CDT] PHP Fatal error:  Class 'tm_photo_gallery\classes\Core' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/classes/class-module.php on line 15
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Class 'GUMP' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/classes/class-preprocessor.php on line 18
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Class 'tm_photo_gallery\classes\Core' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/classes/class-shortcode.php on line 17

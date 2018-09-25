@@ -1,0 +1,4 @@
+[20-Dec-2017 16:01:21 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/rwdoors/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[20-Dec-2017 16:01:24 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/rwdoors/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[09-Mar-2018 02:23:27 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/rwdoors/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[09-Mar-2018 02:23:31 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/rwdoors/public_html/wp-includes/Requests/Exception/Transport.php on line 3

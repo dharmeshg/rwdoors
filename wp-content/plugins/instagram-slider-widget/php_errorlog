@@ -1,0 +1,4 @@
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/instagram-slider-widget/instaram_slider.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/instagram-slider-widget/instaram_slider.php on line 15

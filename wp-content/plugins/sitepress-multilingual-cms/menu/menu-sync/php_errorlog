@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_active_languages() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6

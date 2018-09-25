@@ -1,0 +1,69 @@
+[23-Jul-2018 08:45:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/acceptance.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/acceptance.php on line 8
+[23-Jul-2018 08:45:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/akismet.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/akismet.php on line 7
+[23-Jul-2018 08:45:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/checkbox.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/checkbox.php on line 8
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/count.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/count.php on line 8
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/date.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/date.php on line 9
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/file.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/file.php on line 8
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/flamingo.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/flamingo.php on line 7
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/hidden.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/hidden.php on line 3
+[23-Jul-2018 08:45:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/listo.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/listo.php on line 7
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/number.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/number.php on line 10
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/quiz.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/quiz.php on line 8
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/really-simple-captcha.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/really-simple-captcha.php on line 8
+[23-Jul-2018 08:45:10 CST6CDT] PHP Fatal error:  Class 'WPCF7_Service' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/recaptcha.php on line 3
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/response.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/response.php on line 8
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/select.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/select.php on line 8
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/submit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/submit.php on line 8
+[23-Jul-2018 08:45:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/text.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/text.php on line 12
+[23-Jul-2018 08:45:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/textarea.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/modules/textarea.php on line 8

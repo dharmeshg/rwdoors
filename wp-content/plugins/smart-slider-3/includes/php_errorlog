@@ -1,0 +1,10 @@
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/includes/shortcode.php:221
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/includes/shortcode.php(237): N2SS3Shortcode::addShortCode()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/includes/shortcode.php on line 221
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugins_url() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/includes/smartslider3.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/includes/smartslider3.php on line 2
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/includes/widget.php on line 3

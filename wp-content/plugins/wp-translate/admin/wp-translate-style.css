@@ -1,0 +1,27 @@
+.wp-translate-settings-wrap {background: #fff; padding: 15px; margin-bottom: 25px; width: 75%; margin-right: 10px;}
+.wpt-setting-label-wrap {float: left;}
+.wpt-setting-value-wrap {float: left;}
+.wpt-setting-label-wrap {display: block; width: 95%; margin-bottom: 10px;}
+.wpt-setting-value-wrap {display: block; width: 95%; margin-bottom: 30px;}
+.wpt-divider {clear: both;padding-top: 15px;}
+.wpt-divider.first {padding-top: 0px;}
+#wp-translate-update-status {display: none; position: absolute; top: -150px; left: 30%; padding: 25px 50px; background: rgba(0,0,0,0.7); color: #fff; border: solid 1px #000; border-radius: 25px;}
+
+@media screen and (min-width: 300px) { 
+	.wp-translate-settings-wrap {width: 90%;}	
+}
+@media screen and (min-width: 600px) { 
+	.wpt-setting-label-wrap {width: 40%; margin-right: 15px;}
+	.wpt-setting-value-wrap {width: 50%;}
+	#wpt-left-column {display: block;}
+	#wpt-right-column {display: block; margin-top: 15px; }
+}
+@media screen and (min-width: 900px) { 
+	.wp-translate-settings-wrap {width: 650px;}
+	.wp-translate-settings-wrap div {margin-bottom: 10px;}
+	.wpt-setting-label-wrap {width: 40%; margin-right: 15px;}
+	.wpt-setting-value-wrap {width: 50%;}
+	#wpt-left-column {float: left;}
+	#wpt-right-column {float: left; margin-left: 15px; margin-top: 15px; }
+	#wpt-right-column .wp-translate-settings-wrap {width: 450px;}
+}

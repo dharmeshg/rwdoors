@@ -1,0 +1,3 @@
+[23-Jul-2018 08:45:33 CST6CDT] PHP Fatal error:  Interface 'IWPML_Backend_Action_Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/post-translation/class-wpml-post-edit-terms-hooks-factory.php on line 3
+[23-Jul-2018 08:45:34 CST6CDT] PHP Fatal error:  Interface 'IWPML_Action' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/post-translation/class-wpml-post-edit-terms-hooks.php on line 3
+[23-Jul-2018 08:45:35 CST6CDT] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/post-translation/class-wpml-post-status.php on line 3

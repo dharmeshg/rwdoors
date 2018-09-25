@@ -1,0 +1,25 @@
+[23-Jul-2018 08:45:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/capabilities.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[23-Jul-2018 08:45:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/controller.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/mail.php:224
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/mail.php on line 224
+[23-Jul-2018 08:45:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/rest-api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/rest-api.php on line 3
+[23-Jul-2018 08:45:10 CST6CDT] PHP Fatal error:  Class 'WPCF7_FormTag' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/shortcodes.php on line 94
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[23-Jul-2018 08:45:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/upgrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3

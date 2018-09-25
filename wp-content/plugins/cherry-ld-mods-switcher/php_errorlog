@@ -1,0 +1,5 @@
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/cherry-ld-mods-switcher/cherry-ld-mods-switcher.php:25
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/cherry-ld-mods-switcher/cherry-ld-mods-switcher.php(118): Cherry_LD_Switcher->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/cherry-ld-mods-switcher/cherry-ld-mods-switcher.php on line 25

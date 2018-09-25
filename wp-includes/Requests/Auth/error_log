@@ -1,0 +1,2 @@
+[20-Dec-2017 16:01:03 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/rwdoors/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[09-Mar-2018 02:23:04 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/rwdoors/public_html/wp-includes/Requests/Auth/Basic.php on line 18

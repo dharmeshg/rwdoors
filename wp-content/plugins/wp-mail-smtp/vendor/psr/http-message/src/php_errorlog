@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:39 CST6CDT] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-mail-smtp/vendor/psr/http-message/src/RequestInterface.php on line 24

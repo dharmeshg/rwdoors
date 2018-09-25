@@ -1,0 +1,9 @@
+[23-Jul-2018 08:45:28 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/backgroundanimation/manager.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/backgroundanimation/manager.php on line 2
+[23-Jul-2018 08:45:28 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Pluggable' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/backgroundanimation/storage.php:15
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/backgroundanimation/storage.php(73): N2SmartSliderBackgroundAnimationStorage::init()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/backgroundanimation/storage.php on line 15

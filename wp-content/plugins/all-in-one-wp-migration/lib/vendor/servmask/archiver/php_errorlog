@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:34 CST6CDT] PHP Fatal error:  Class 'Ai1wm_Archiver' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/archiver/class-ai1wm-compressor.php on line 26
+[23-Jul-2018 08:45:36 CST6CDT] PHP Fatal error:  Class 'Ai1wm_Archiver' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/archiver/class-ai1wm-extractor.php on line 26

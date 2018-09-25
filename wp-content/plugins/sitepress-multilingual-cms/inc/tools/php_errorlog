@@ -1,0 +1,5 @@
+[23-Jul-2018 08:45:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php:39
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php(184): WPML_Sunrise_Lang_In_Domains->init()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39

@@ -1,0 +1,3 @@
+[23-Jul-2018 08:45:23 CST6CDT] PHP Fatal error:  Interface 'WPMailSMTP\Providers\AuthInterface' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-mail-smtp/src/Providers/AuthAbstract.php on line 10
+[23-Jul-2018 08:45:24 CST6CDT] PHP Fatal error:  Interface 'WPMailSMTP\Providers\MailerInterface' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-mail-smtp/src/Providers/MailerAbstract.php on line 14
+[23-Jul-2018 08:45:24 CST6CDT] PHP Fatal error:  Interface 'WPMailSMTP\Providers\OptionsInterface' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-mail-smtp/src/Providers/OptionsAbstract.php on line 12

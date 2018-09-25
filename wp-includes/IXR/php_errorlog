@@ -1,0 +1,2 @@
+[28-May-2018 11:20:09 CST6CDT] PHP Fatal error:  Class 'IXR_Client' not found in /home/rwdoors/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[28-May-2018 11:20:41 CST6CDT] PHP Fatal error:  Class 'IXR_Server' not found in /home/rwdoors/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

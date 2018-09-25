@@ -1,0 +1,2 @@
+[20-Dec-2017 16:01:33 UTC] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home/rwdoors/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19
+[09-Mar-2018 02:23:40 UTC] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home/rwdoors/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19

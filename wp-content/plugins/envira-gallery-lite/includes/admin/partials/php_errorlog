@@ -1,0 +1,12 @@
+[23-Jul-2018 08:45:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/partials/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/partials/header.php on line 14
+[23-Jul-2018 08:45:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/partials/metabox-gallery-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/partials/metabox-gallery-code.php on line 11
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_config() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/partials/metabox-gallery-type.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/partials/metabox-gallery-type.php on line 13

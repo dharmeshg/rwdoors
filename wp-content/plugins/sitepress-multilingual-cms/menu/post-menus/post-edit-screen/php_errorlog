@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:36 CST6CDT] PHP Fatal error:  Interface 'IWPML_Backend_Action_Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/post-menus/post-edit-screen/class-wpml-meta-boxes-post-edit-ajax-factory.php on line 3
+[23-Jul-2018 08:45:57 CST6CDT] PHP Fatal error:  Class 'WPML_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/post-menus/post-edit-screen/wpml-sync-custom-field-note.class.php on line 3

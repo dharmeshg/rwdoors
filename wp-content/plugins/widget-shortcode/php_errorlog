@@ -1,0 +1,12 @@
+[05-Jul-2018 11:10:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/widget-shortcode/init.php:40
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/widget-shortcode/init.php(36): Widget_Shortcode->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/widget-shortcode/init.php(285): Widget_Shortcode::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/widget-shortcode/init.php on line 40
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/widget-shortcode/init.php:40
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/widget-shortcode/init.php(36): Widget_Shortcode->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/widget-shortcode/init.php(285): Widget_Shortcode::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/widget-shortcode/init.php on line 40

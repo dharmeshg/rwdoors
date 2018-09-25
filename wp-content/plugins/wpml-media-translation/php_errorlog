@@ -1,0 +1,5 @@
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugins_url() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-media-translation/inc/constants.inc:4
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-media-translation/plugin.php(27): require()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-media-translation/inc/constants.inc on line 4

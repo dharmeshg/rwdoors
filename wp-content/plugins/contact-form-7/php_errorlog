@@ -1,0 +1,13 @@
+[05-Jun-2018 07:50:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/rwdoors/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/functions.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/settings.php on line 3
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[01-Aug-2018 00:04:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/rwdoors/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

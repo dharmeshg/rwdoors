@@ -1,0 +1,5 @@
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/externals/shared-ui/plugin-ui.php:49
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/externals/shared-ui/plugin-ui.php(313): WDEV_Plugin_Ui::reset()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/externals/shared-ui/plugin-ui.php on line 49

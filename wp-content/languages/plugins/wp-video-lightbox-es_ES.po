@@ -1,0 +1,309 @@
+# Translation of Plugins - WP Video Lightbox - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Video Lightbox - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-20 07:48:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Video Lightbox - Development (trunk)\n"
+
+#: wpvl-settings.php:362
+msgid "fancyBox Settings Updated!"
+msgstr "¡Ajustes de fancyBox Actualizados!"
+
+#: misc_functions.php:141 misc_functions.php:187
+msgid "Error! You need to enable the fancyBox library in the settings!"
+msgstr "¡Error! ¡Debes activar la biblioteca fancyBox en los ajustes!"
+
+#: wpvl-settings.php:384
+msgid "Check this option if you want to enable fancyBox library"
+msgstr "Marca esta opción si quieres activar la biblioteca fancyBox"
+
+#: wpvl-settings.php:381 wpvl-settings.php:382
+msgid "Enable fancyBox"
+msgstr "Activa fancyBox"
+
+#: wpvl-settings.php:326 wpvl-settings.php:327
+msgid "Keyboard shortcuts"
+msgstr "Atajos de teclado"
+
+#. Author URI of the plugin/theme
+msgid "https://www.tipsandtricks-hq.com/"
+msgstr "https://www.tipsandtricks-hq.com/"
+
+#: wpvl-settings.php:312 wpvl-settings.php:313
+msgid "Overlay gallery"
+msgstr "Galería emergente"
+
+#. Author of the plugin/theme
+msgid "Tips and Tricks HQ, Ruhul Amin"
+msgstr "Trucos y atajos HQ, Ruhul Amin"
+
+#: wpvl-settings.php:320
+msgid "Overlay gallery max"
+msgstr "Recubrir máximo de galería"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.tipsandtricks-hq.com/?p=2700"
+msgstr "https://www.tipsandtricks-hq.com/?p=2700"
+
+#: wpvl-settings.php:322
+msgid "Maximum number of pictures in the overlay gallery [default: %s]"
+msgstr "El número máximo de imágenes en la galería de superposición [por defecto:%s]"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Video Lightbox"
+msgstr "WP Video Lightbox"
+
+#: wpvl-settings.php:334 wpvl-settings.php:335
+msgid "IE6 fallback"
+msgstr "Retroceso a IE6"
+
+#: wpvl-settings.php:304 wpvl-settings.php:305
+msgid "Deeplinking"
+msgstr "Enlace profundo"
+
+#: wpvl-settings.php:307
+msgid "Allow prettyPhoto to update the url to enable deeplinking. [default: true]"
+msgstr "Permitir a prettyPhoto actualizar la url para activar el enlace profundo. [por defecto: true]"
+
+#: wpvl-settings.php:315
+msgid "If set to true, a gallery will overlay the fullscreen image on mouse over [default: true]"
+msgstr "Si se establece en true, una galería recubrirá la imagen de pantalla completa al pasar el ratón [por defecto: true]"
+
+#: wpvl-settings.php:299
+msgid "If set to true, only the close button will close the window [default: false]"
+msgstr "Si se establece en true, sólo el botón de cierre cerrará la ventana [por defecto: false]"
+
+#. Description of the plugin/theme
+msgid "Simple video lightbox plugin to display videos in a nice overlay popup. It also supports images, flash, YouTube, iFrame."
+msgstr "Usar el plugin Simple Video Lightbox para mostrar vídeos en una bonita ventana emergente superpuesta. También es compatible con imágenes, flash, YouTube, iFrame."
+
+#: wpvl-settings.php:337
+msgid "compatibility fallback for IE6 [default: true]"
+msgstr "compatibilidad con IE6 [por defecto: true]"
+
+#: wpvl-settings.php:329
+msgid "Set to false if you open forms inside prettyPhoto [default: true]"
+msgstr "Establecido en falso si abres los formularios dentro de prettyPhoto [por defecto: true]"
+
+#: wpvl-settings.php:281
+msgid "opaque"
+msgstr "opaco"
+
+#: wpvl-settings.php:296 wpvl-settings.php:297
+msgid "Modal"
+msgstr "Modal"
+
+#: wpvl-settings.php:288 wpvl-settings.php:289
+msgid "Autoplay"
+msgstr "Reproducción automática"
+
+#: wpvl-settings.php:278
+msgid "wmode"
+msgstr "wmode"
+
+#: wpvl-settings.php:259
+msgid "Select a theme for the lightbox window"
+msgstr "Seleccione un tema para la ventana de lightbox"
+
+#: wpvl-settings.php:266
+msgid "The padding on each side of the picture [default: %s]"
+msgstr "El relleno en cada lado de la imagen [por defecto: %s]"
+
+#: wpvl-settings.php:273
+msgid "Hides all the flash objects on a page, set to TRUE if flash appears over prettyPhoto [default: false]"
+msgstr "Oculta todos los objetos flash en una página, su valor es TRUE si el flash aparece sobre prettyPhoto [por defecto: false]"
+
+#: wpvl-settings.php:283
+msgid "Set the flash wmode attribute [default: opaque]"
+msgstr "Establecer el atributo wmode Flash [por defecto: opaco]"
+
+#: wpvl-settings.php:264
+msgid "Horizontal padding"
+msgstr "Acolchado horizontal"
+
+#: wpvl-settings.php:291
+msgid "Automatically start videos: true / false [default: true]"
+msgstr "Inicio automático de vídeos: true / false [por defecto: true]"
+
+#: wpvl-settings.php:254
+msgid "Light Square"
+msgstr "Cuadro Claro"
+
+#: wpvl-settings.php:252
+msgid "Light Rounded"
+msgstr "Redondo Claro"
+
+#: wpvl-settings.php:253
+msgid "Dark Rounded"
+msgstr "Redondo Oscuro"
+
+#: wpvl-settings.php:255
+msgid "Dark Square"
+msgstr "Cuadro Oscuro"
+
+#: wpvl-settings.php:256
+msgid "Facebook"
+msgstr "Facebook"
+
+#: wpvl-settings.php:251
+msgid "Default"
+msgstr "Por defecto"
+
+#: wpvl-settings.php:248
+msgid "Theme"
+msgstr "Tema"
+
+#: wpvl-settings.php:232 wpvl-settings.php:238
+msgid "[default: %s]"
+msgstr "[por defecto: %s]"
+
+#: wpvl-settings.php:242
+msgid "Counter separator label"
+msgstr "Separador de la etiqueta de contador"
+
+#: wpvl-settings.php:244
+msgid "The separator for the gallery counter 1 \"of\" 2 [default: %s]"
+msgstr "El separador para el contador de la galería 1 \"de\" 2 [por defecto: %s]"
+
+#: wpvl-settings.php:236
+msgid "Default height"
+msgstr "Altura predeterminada"
+
+#: wpvl-settings.php:214 wpvl-settings.php:215
+msgid "Allow resize"
+msgstr "Permitir cambiar el tamaño"
+
+#: wpvl-settings.php:222 wpvl-settings.php:223
+msgid "Allow expand"
+msgstr "Permitir expandir"
+
+#: wpvl-settings.php:225
+msgid "Allow the user to expand a resized image. true / false [default: true]"
+msgstr "Permite al usuario ampliar una imagen redimensionada. true / false [por defecto: true]"
+
+#: wpvl-settings.php:230
+msgid "Default width"
+msgstr "Ancho por defecto"
+
+#: wpvl-settings.php:217
+msgid "Resize the photos bigger than viewport. true / false [default: true]"
+msgstr "Cambia el tamaño de las fotos más grandes que la ventana gráfica. true / false [por defecto: true]"
+
+#: wpvl-settings.php:200
+msgid "Opacity"
+msgstr "Opacity"
+
+#: wpvl-settings.php:206 wpvl-settings.php:207
+msgid "Show title"
+msgstr "Mostrar título"
+
+#: wpvl-settings.php:192 wpvl-settings.php:193
+msgid "Autoplay slideshow"
+msgstr "Diapositivas de reproducción automática"
+
+#: wpvl-settings.php:181
+msgid "fast / slow / normal [default: fast]"
+msgstr "rápido / lento / normal [por defecto: rápido]"
+
+#: wpvl-settings.php:188
+msgid "%s OR interval time in ms [default: %s]"
+msgstr "%s o intervalo de tiempo en ms [por defecto:%s]"
+
+#: wpvl-settings.php:202
+msgid "Value between %s and %s [default: %s]"
+msgstr "Valor entre %s y %s [por defecto: %s]"
+
+#: wpvl-settings.php:186
+msgid "Slideshow"
+msgstr "Diapositivas"
+
+#: wpvl-settings.php:209
+msgid "true / false [default: true]"
+msgstr "true / false [por defecto: true] "
+
+#: wpvl-settings.php:195
+msgid "true / false [default: false]"
+msgstr "true / false [por defecto: false]"
+
+#: wpvl-settings.php:177
+msgid "Slow"
+msgstr "Lento"
+
+#: wpvl-settings.php:178
+msgid "Normal"
+msgstr "Normal"
+
+#: wpvl-settings.php:176
+msgid "Fast"
+msgstr "Rápido"
+
+#: wpvl-settings.php:173
+msgid "Animation speed"
+msgstr "Velocidad de animación"
+
+#: wpvl-settings.php:165 wpvl-settings.php:166
+msgid "Enable prettyPhoto"
+msgstr "Activar prettyPhoto"
+
+#: wpvl-settings.php:168
+msgid "Check this option if you want to enable prettyPhoto library"
+msgstr "Marca esta opción si deseas activar la biblioteca prettyPhoto"
+
+#: wpvl-settings.php:98
+msgid "Check this option if you want to enable jQuery library"
+msgstr "Seleccione esta opción si desea activar la librería jQuery"
+
+#: wpvl-settings.php:95 wpvl-settings.php:96
+msgid "Enable jQuery"
+msgstr "Activar jQuery"
+
+#: wpvl-settings.php:84 wpvl-settings.php:154 wpvl-settings.php:370
+msgid "WP Video Lightbox Homepage"
+msgstr "Página de inicio de WP Video Lightbox"
+
+#: wpvl-settings.php:106 wpvl-settings.php:345 wpvl-settings.php:392
+msgid "Save Changes"
+msgstr "Guarda cambios"
+
+#: wpvl-settings.php:18
+msgid "prettyPhoto"
+msgstr "prettyPhoto"
+
+#: wpvl-settings.php:83 wpvl-settings.php:153 wpvl-settings.php:369
+msgid "For more information, updates, detailed documentation and video tutorial, please visit:"
+msgstr "Para obtener más información, actualizaciones, documentación detallada y un tutorial en vídeo, por favor visita:"
+
+#: wpvl-settings.php:77
+msgid "prettyPhoto Settings Updated!"
+msgstr "¡Actualizados los ajustes de prettyPhoto!"
+
+#: misc_functions.php:22 misc_functions.php:83 misc_functions.php:147
+#: misc_functions.php:193
+msgid "Error! You must specify an anchor parameter if you are not using the auto_thumb option."
+msgstr "¡Error! Debe especificar un parámetro de anclaje si no está utilizando la opción auto_thumb."
+
+#: wpvl-settings.php:11
+msgid "Video Lightbox"
+msgstr "Video Lightbox"
+
+#: wpvl-settings.php:17
+msgid "General"
+msgstr "General"
+
+#: wpvl-settings.php:11
+msgid "Video Lightbox Settings"
+msgstr "Ajustes de Video Lightbox"
+
+#: misc_functions.php:80 misc_functions.php:190
+msgid "Error! You must specify a value for the Video ID, Width, Height parameters to use this shortcode!"
+msgstr "¡Error! ¡Debes especificar un valor para el ID del vídeo, y los parámetros de ancho y altura para usar este shortcode!"
+
+#: misc_functions.php:19 misc_functions.php:144
+msgid "Error! You must specify a value for the Video ID, Width, Height and Anchor parameters to use this shortcode!"
+msgstr "¡Error! ¡Debes especificar un valor para el ID del vídeo, la anchura, la altura y los parámetros de anclaje para usar este shortcode!"

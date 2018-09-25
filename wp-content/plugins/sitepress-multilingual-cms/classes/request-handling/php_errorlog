@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:33 CST6CDT] PHP Fatal error:  Class 'WPML_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/request-handling/class-wpml-frontend-redirection.php on line 3
+[23-Jul-2018 08:45:34 CST6CDT] PHP Fatal error:  Class 'WPML_Request' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/request-handling/class-wpml-frontend-request.php on line 9

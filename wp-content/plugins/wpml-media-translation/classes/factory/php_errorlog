@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:22 CST6CDT] PHP Fatal error:  Class 'WPML_Current_Screen_Loader_Factory' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-media-translation/classes/factory/wpml-media-edit-hooks-factory.php on line 6

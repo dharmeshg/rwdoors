@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:57 CST6CDT] PHP Fatal error:  Class 'N2SystemBackendVisualManagerControllerAjax' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/applications/system/backend/controllers/ajax/Font.php on line 3
+[23-Jul-2018 08:45:59 CST6CDT] PHP Fatal error:  Class 'N2BackendControllerAjax' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/applications/system/backend/controllers/ajax/Link.php on line 3

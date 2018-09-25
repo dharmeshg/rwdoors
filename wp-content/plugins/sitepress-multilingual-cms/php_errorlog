@@ -1,0 +1,5 @@
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function wpml_get_authenticated_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/ajax.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/ajax.php on line 23
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/sitepress.class.php on line 7

@@ -1,0 +1,2 @@
+[21-Dec-2017 02:19:22 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/rwdoors/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[09-Mar-2018 13:56:23 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/rwdoors/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3

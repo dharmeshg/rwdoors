@@ -1,0 +1,5 @@
+[23-Jul-2018 08:45:34 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WPML_Root_Page' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/url-handling/wpml-root-page.class.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/url-handling/wpml-root-page.class.php on line 5
+[23-Jul-2018 08:45:35 CST6CDT] PHP Fatal error:  Class 'WPML_Full_PT_API' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/url-handling/wpml-slug-filter.class.php on line 10

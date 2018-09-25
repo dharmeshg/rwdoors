@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:22 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'WPML_TM_PATH/menu/sitepress-table.class.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/menu/basket-tab/sitepress-table-basket.class.php on line 2

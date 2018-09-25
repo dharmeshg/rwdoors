@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:27 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'WPML_PLUGIN_PATH/menu/wpml-language-filter-bar.class.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/post-menus/wpml-post-language-filter.class.php on line 2

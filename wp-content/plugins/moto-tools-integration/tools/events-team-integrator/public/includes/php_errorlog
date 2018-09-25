@@ -1,0 +1,7 @@
+[23-Jul-2018 08:45:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function moto_tools_integration() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/moto-tools-integration/tools/events-team-integrator/public/includes/class-events-team-integrator.php:37
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/moto-tools-integration/tools/events-team-integrator/public/includes/class-events-team-integrator.php(245): Events_Team_Integrator->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/moto-tools-integration/tools/events-team-integrator/public/includes/class-events-team-integrator.php(253): Events_Team_Integrator::get_instance()
+#2 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/moto-tools-integration/tools/events-team-integrator/public/includes/class-events-team-integrator.php(256): events_team_integrator()
+#3 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/moto-tools-integration/tools/events-team-integrator/public/includes/class-events-team-integrator.php on line 37

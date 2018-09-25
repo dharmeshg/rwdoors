@@ -1,0 +1,25 @@
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/field-group.php:34
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/field-group.php(1258): acf_admin_field_group->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/field-group.php on line 34
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/field-groups.php:38
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/field-groups.php(802): acf_admin_field_groups->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/field-groups.php on line 38
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/settings-addons.php:24
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/settings-addons.php(121): acf_settings_addons->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/settings-addons.php on line 24
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/settings-info.php:21
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/settings-info.php(99): acf_settings_info->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/settings-info.php on line 21
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/settings-tools.php:25
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/settings-tools.php(454): acf_settings_tools->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/admin/settings-tools.php on line 25

@@ -1,0 +1,21 @@
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugins_url() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/constants.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/constants.php on line 4
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  require(): Failed opening required 'WPML_ST_PATH/inc/functions.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/functions-load.php on line 2
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/functions.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/functions.php on line 4
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/private-actions.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/private-actions.php on line 13
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/private-filters.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/private-filters.php on line 54
+[23-Jul-2018 08:45:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/widget-text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/widget-text.php on line 5

@@ -1,0 +1,4 @@
+[20-Dec-2017 16:01:50 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/rwdoors/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[20-Dec-2017 16:01:52 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/rwdoors/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15
+[09-Mar-2018 02:24:02 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/rwdoors/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[09-Mar-2018 02:24:05 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/rwdoors/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15

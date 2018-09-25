@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:28 CST6CDT] PHP Fatal error:  Class 'tm_photo_gallery\classes\Shortcode' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/classes/shortcodes/class-shortcode-grid.php on line 17

@@ -1,0 +1,5 @@
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_grid.php:13
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/bootstrap-shortcodes.php(13): require_once()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_grid.php on line 13

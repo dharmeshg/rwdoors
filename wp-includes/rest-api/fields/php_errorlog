@@ -1,0 +1,4 @@
+[28-May-2018 05:00:00 CST6CDT] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/rwdoors/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[28-May-2018 05:00:11 CST6CDT] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/rwdoors/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[28-May-2018 05:00:22 CST6CDT] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/rwdoors/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[28-May-2018 05:00:33 CST6CDT] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/rwdoors/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17

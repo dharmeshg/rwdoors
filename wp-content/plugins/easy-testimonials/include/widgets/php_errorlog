@@ -1,0 +1,5 @@
+[23-Jul-2018 08:45:02 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/widgets/random_testimonial_widget.php on line 21
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/widgets/single_testimonial_widget.php on line 21
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/widgets/testimonial_cycle_widget.php on line 21
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/widgets/testimonial_grid_widget.php on line 21
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/widgets/testimonial_list_widget.php on line 21

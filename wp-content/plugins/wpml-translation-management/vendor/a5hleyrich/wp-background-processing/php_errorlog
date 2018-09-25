@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/vendor/a5hleyrich/wp-background-processing/wp-background-processing.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/vendor/a5hleyrich/wp-background-processing/wp-background-processing.php on line 19

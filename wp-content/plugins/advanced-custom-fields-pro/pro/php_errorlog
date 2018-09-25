@@ -1,0 +1,5 @@
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function acf() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/pro/acf-pro.php:23
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/pro/acf-pro.php(152): acf_pro->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/pro/acf-pro.php on line 23

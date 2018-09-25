@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:54 CST6CDT] PHP Fatal error:  Class 'WPML_Editor_UI_Fields' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/menu/translation-editor/fields/model/class-wpml-editor-ui-field-image.php on line 3
+[23-Jul-2018 08:45:56 CST6CDT] PHP Fatal error:  Class 'WPML_Editor_UI_Field' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/menu/translation-editor/fields/model/class-wpml-editor-ui-textarea-field.php on line 3

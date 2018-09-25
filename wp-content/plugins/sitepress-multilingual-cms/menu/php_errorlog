@@ -1,0 +1,42 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_default_language() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/_custom_types_translation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/_custom_types_translation.php on line 30
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/_posts_sync_options.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/_posts_sync_options.php on line 7
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_debug_info() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/debug-information.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/debug-information.php on line 4
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_plugin_active() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/languages.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/languages.php on line 5
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _get_list_table() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/network.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/network.php on line 3
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/support.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/support.php on line 2
+[23-Jul-2018 08:45:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/theme-plugins-compatibility.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/theme-plugins-compatibility.php on line 2
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/translation-options.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/translation-options.php on line 2
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function wp_verify_nonce() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/troubleshooting.php:328
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/troubleshooting.php on line 328
+[23-Jul-2018 08:45:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/upgrade_notice.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/upgrade_notice.php on line 4
+[23-Jul-2018 08:45:12 CST6CDT] PHP Fatal error:  Class 'WPML_WPDB_And_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/wpml-language-filter-bar.class.php on line 3
+[23-Jul-2018 08:45:13 CST6CDT] PHP Fatal error:  Class 'WPML_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/wpml-translation-selector.class.php on line 3

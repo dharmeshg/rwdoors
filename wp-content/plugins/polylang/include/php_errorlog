@@ -1,0 +1,13 @@
+[23-Jul-2018 08:45:02 CST6CDT] PHP Fatal error:  Class 'PLL_Links_Permalinks' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/links-abstract-domain.php on line 8
+[23-Jul-2018 08:45:02 CST6CDT] PHP Fatal error:  Class 'PLL_Links_Model' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/links-default.php on line 10
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Class 'PLL_Links_Permalinks' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/links-directory.php on line 10
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Class 'PLL_Links_Abstract_Domain' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/links-domain.php on line 10
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Class 'PLL_Links_Model' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/links-permalinks.php on line 8
+[23-Jul-2018 08:45:07 CST6CDT] PHP Fatal error:  Class 'PLL_Links_Abstract_Domain' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/links-subdomain.php on line 10
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Class 'MO' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/mo.php on line 9
+[23-Jul-2018 08:45:13 CST6CDT] PHP Fatal error:  Class 'PLL_Translated_Object' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/translated-post.php on line 8
+[23-Jul-2018 08:45:13 CST6CDT] PHP Fatal error:  Class 'PLL_Translated_Object' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/translated-term.php on line 8
+[23-Jul-2018 08:45:13 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/walker-dropdown.php on line 8
+[23-Jul-2018 08:45:13 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/walker-list.php on line 8
+[23-Jul-2018 08:45:14 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATH/wp-includes/default-widgets.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/widget-calendar.php on line 4
+[23-Jul-2018 08:45:14 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/include/widget-languages.php on line 8

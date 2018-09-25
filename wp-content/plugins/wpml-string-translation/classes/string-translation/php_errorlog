@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:32 CST6CDT] PHP Fatal error:  Interface 'IWPML_Backend_Action_Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/classes/string-translation/class-wpml-st-string-translation-ajax-hooks-factory.php on line 3
+[23-Jul-2018 08:45:34 CST6CDT] PHP Fatal error:  Interface 'IWPML_Action' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/classes/string-translation/class-wpml-st-string-translation-priority-ajax.php on line 3

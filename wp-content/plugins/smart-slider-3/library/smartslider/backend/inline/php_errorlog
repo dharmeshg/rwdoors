@@ -1,0 +1,24 @@
+[23-Jul-2018 08:45:29 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Request' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/inline/_sidebar_settings.phtml:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/inline/_sidebar_settings.phtml on line 2
+[23-Jul-2018 08:45:30 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2SmartsliderSlidersModel' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/inline/embedslidermanager.phtml:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/inline/embedslidermanager.phtml on line 2
+[23-Jul-2018 08:45:31 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2SS3' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/inline/review.phtml:10
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/inline/review.phtml on line 10
+[23-Jul-2018 08:45:32 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2SS3' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/inline/slidemanager.phtml:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/inline/slidemanager.phtml on line 3
+[23-Jul-2018 08:45:32 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2SmartsliderSlidersModel' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/inline/slidermanager.phtml:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/inline/slidermanager.phtml on line 2
+[23-Jul-2018 08:45:33 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Base' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/inline/tutorial-free.phtml:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/inline/tutorial-free.phtml on line 2

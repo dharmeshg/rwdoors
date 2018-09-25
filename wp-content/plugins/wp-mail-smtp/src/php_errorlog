@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-phpmailer.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-mail-smtp/src/MailCatcher.php on line 7

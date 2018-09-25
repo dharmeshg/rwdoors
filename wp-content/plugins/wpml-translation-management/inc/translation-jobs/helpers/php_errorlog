@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:35 CST6CDT] PHP Fatal error:  Class 'WPML_Translation_Job_Helper_With_API' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/translation-jobs/helpers/wpml-save-translation-data-action.class.php on line 3
+[23-Jul-2018 08:45:36 CST6CDT] PHP Fatal error:  Class 'WPML_Translation_Job_Helper' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/translation-jobs/helpers/wpml-translation-job-helper-with-api.class.php on line 3

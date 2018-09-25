@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:31 CST6CDT] PHP Fatal error:  Class 'acf_field' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/pro/fields/clone.php on line 16
+[23-Jul-2018 08:45:32 CST6CDT] PHP Fatal error:  Class 'acf_field' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php on line 16
+[23-Jul-2018 08:45:32 CST6CDT] PHP Fatal error:  Class 'acf_field' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/pro/fields/gallery.php on line 16
+[23-Jul-2018 08:45:33 CST6CDT] PHP Fatal error:  Class 'acf_field' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/pro/fields/repeater.php on line 16

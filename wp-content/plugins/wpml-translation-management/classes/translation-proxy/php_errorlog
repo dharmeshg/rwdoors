@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:35 CST6CDT] PHP Fatal error:  Class 'WPML_Templates_Factory' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/translation-proxy/class-wpml-jobs-fetch-log-ui.php on line 3

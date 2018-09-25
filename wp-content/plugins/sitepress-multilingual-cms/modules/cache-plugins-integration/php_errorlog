@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/modules/cache-plugins-integration/cache-plugins-integration.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/modules/cache-plugins-integration/cache-plugins-integration.php on line 2

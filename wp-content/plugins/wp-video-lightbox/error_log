@@ -1,0 +1,1 @@
+[13-Dec-2017 14:40:42 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/rwdoors/public_html/wp-content/plugins/wp-video-lightbox/misc_functions.php on line 2

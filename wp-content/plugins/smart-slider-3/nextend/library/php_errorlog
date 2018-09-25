@@ -1,0 +1,13 @@
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2DBConnector' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/libraries/mvc/model.php:16
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/libraries/storage/section.php(166): N2Model->__construct('nextend2_sectio...')
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/loader.php(45): require_once('/home/rwdoors/p...')
+#2 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/loader.php(23): N2Loader::importPath('/home/rwdoors/p...')
+#3 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/library.php(46): N2Loader::import(Array)
+#4 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/libraries/mvc/model.php on line 16
+[23-Jul-2018 08:45:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/settings.php:27
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/settings.php(72): N2Settings::init()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/settings.php on line 27

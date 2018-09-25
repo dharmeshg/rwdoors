@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:35 CST6CDT] PHP Fatal error:  Class 'WPML_TM_Translatable_Element' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/words-count/class-wpml-tm-post.php on line 3
+[23-Jul-2018 08:45:36 CST6CDT] PHP Fatal error:  Class 'WPML_TM_Translatable_Element' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/words-count/class-wpml-tm-string.php on line 3

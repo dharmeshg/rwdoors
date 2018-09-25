@@ -1,0 +1,5 @@
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php on line 4
+[23-Jul-2018 08:45:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/admin/includes/welcome-panel.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/contact-form-7/admin/includes/welcome-panel.php on line 55

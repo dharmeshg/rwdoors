@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:34 CST6CDT] PHP Fatal error:  Class 'WPML_Translation_Roles_Records' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/user/class-wpml-translation-manager-records.php on line 3
+[23-Jul-2018 08:45:37 CST6CDT] PHP Fatal error:  Class 'WPML_Translator_Records' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/user/class-wpml-translator-admin-records.php on line 3

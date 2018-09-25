@@ -1,0 +1,30 @@
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/attachment.php:34
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/attachment.php(322): acf_form_attachment->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/attachment.php on line 34
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/comment.php:34
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/comment.php(340): acf_form_comment->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/comment.php on line 34
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/post.php:38
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/post.php(615): acf_form_post->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/post.php on line 38
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/taxonomy.php:36
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/taxonomy.php(453): acf_form_taxonomy->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/taxonomy.php on line 36
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/user.php:36
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/user.php(407): acf_form_user->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/user.php on line 36
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/widget.php:40
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/widget.php(783): acf_form_widget->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/forms/widget.php on line 40

@@ -1,0 +1,36 @@
+[23-Jul-2018 08:45:25 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/meta-box.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/meta-box.php on line 7
+[23-Jul-2018 08:45:25 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/tabs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/tabs.php on line 2
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-advanced-page.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-advanced-page.php on line 9
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-caching-page.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-caching-page.php on line 1
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-gzip-page.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-gzip-page.php on line 2
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-minification-page.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-minification-page.php on line 1
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-page.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-page.php on line 2
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WP_Hummingbird_Module_Performance' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-performance-page.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-performance-page.php on line 3
+[23-Jul-2018 08:45:27 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-uptime-page.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/wphb-uptime-page.php on line 4

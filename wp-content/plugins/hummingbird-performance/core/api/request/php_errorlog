@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:36 CST6CDT] PHP Fatal error:  Class 'WP_Hummingbird_API_Request' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/core/api/request/cloudflare.php on line 3
+[23-Jul-2018 08:45:39 CST6CDT] PHP Fatal error:  Class 'WP_Hummingbird_API_Request' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/core/api/request/wpmudev.php on line 3

@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Class 'WPML_Ajax_Factory' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/class-wpml-theme-localization-type.php on line 3
+[23-Jul-2018 08:45:12 CST6CDT] PHP Fatal error:  Class 'WPML_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/class-wpml-xmlrpc.php on line 6

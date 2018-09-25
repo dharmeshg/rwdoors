@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/templates/frontend/popup/slider.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/templates/frontend/popup/slider.php on line 1

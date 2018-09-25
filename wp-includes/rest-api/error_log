@@ -1,0 +1,2 @@
+[20-Dec-2017 00:45:32 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/rwdoors/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[08-Mar-2018 20:09:46 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/rwdoors/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

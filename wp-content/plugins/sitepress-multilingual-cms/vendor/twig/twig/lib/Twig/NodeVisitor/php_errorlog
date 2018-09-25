@@ -1,0 +1,4 @@
+[23-Jul-2018 08:46:06 CST6CDT] PHP Fatal error:  Class 'Twig_BaseNodeVisitor' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/NodeVisitor/Escaper.php on line 19
+[23-Jul-2018 08:46:06 CST6CDT] PHP Fatal error:  Class 'Twig_BaseNodeVisitor' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/NodeVisitor/Optimizer.php on line 24
+[23-Jul-2018 08:46:07 CST6CDT] PHP Fatal error:  Class 'Twig_BaseNodeVisitor' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/NodeVisitor/SafeAnalysis.php on line 15
+[23-Jul-2018 08:46:07 CST6CDT] PHP Fatal error:  Class 'Twig_BaseNodeVisitor' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/NodeVisitor/Sandbox.php on line 19

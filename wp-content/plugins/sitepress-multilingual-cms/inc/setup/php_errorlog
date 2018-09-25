@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:33 CST6CDT] PHP Fatal error:  Class 'WPML_WPDB_And_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/setup/wpml-installation.class.php on line 3

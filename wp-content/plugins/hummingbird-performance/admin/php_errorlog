@@ -1,0 +1,7 @@
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Class 'WP_Hummingbird_Admin_Page' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/class-advanced-page.php on line 8
+[23-Jul-2018 08:45:07 CST6CDT] PHP Fatal error:  Class 'WP_Hummingbird_Admin_Page' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/class-caching-page.php on line 8
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Class 'WP_Hummingbird_Admin_Page' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/class-dashboard-page.php on line 6
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Class 'WP_Hummingbird_Admin_Page' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/class-gzip-page.php on line 5
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Class 'WP_Hummingbird_Admin_Page' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/class-minification-page.php on line 6
+[23-Jul-2018 08:45:10 CST6CDT] PHP Fatal error:  Class 'WP_Hummingbird_Admin_Page' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/class-performance-page.php on line 6
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Class 'WP_Hummingbird_Admin_Page' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/class-uptime-page.php on line 3

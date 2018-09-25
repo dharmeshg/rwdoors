@@ -1,0 +1,1 @@
+[28-May-2018 11:31:10 CST6CDT] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/rwdoors/public_html/wp-includes/Requests/Response/Headers.php on line 13

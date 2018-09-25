@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:38 CST6CDT] PHP Fatal error:  Class 'N2SessionStorageAbstract' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/wordpress/libraries/session/storage.php on line 3

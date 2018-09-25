@@ -1,0 +1,8 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr__() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/configs/language-admin-js.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/configs/language-admin-js.php on line 3
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/configs/options-js.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/configs/options-js.php on line 7

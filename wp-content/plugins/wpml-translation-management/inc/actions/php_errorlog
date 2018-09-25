@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:23 CST6CDT] PHP Fatal error:  Class 'WPML_Translation_Job_Helper' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/actions/wpml-tm-post-actions.class.php on line 3

@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-media-translation/inc/private-filters.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-media-translation/inc/private-filters.php on line 8

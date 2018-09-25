@@ -1,0 +1,7 @@
+[23-Jul-2018 08:45:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/moto-tools-integration/tools/events-team-integrator/admin/includes/class-events-team-integrator-admin.php:14
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/moto-tools-integration/tools/events-team-integrator/admin/includes/class-events-team-integrator-admin.php(82): Events_Team_Integrator_Admin->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/moto-tools-integration/tools/events-team-integrator/admin/includes/class-events-team-integrator-admin.php(90): Events_Team_Integrator_Admin::get_instance()
+#2 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/moto-tools-integration/tools/events-team-integrator/admin/includes/class-events-team-integrator-admin.php(93): events_team_integrator_admin()
+#3 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/moto-tools-integration/tools/events-team-integrator/admin/includes/class-events-team-integrator-admin.php on line 14

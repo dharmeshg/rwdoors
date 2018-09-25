@@ -1,0 +1,17 @@
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/export.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/export.php on line 2
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/import.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/import.php on line 2
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/link.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/link.php on line 2
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Pluggable' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/storage.php:7
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/storage.php(2243): N2SmartSliderStorage::init()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/libraries/storage.php on line 7

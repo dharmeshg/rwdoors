@@ -1,0 +1,63 @@
+[23-Jul-2018 08:45:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function wp_enqueue_script() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-2.0.0.php:214
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-2.0.0.php on line 214
+[23-Jul-2018 08:45:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-2.0.5.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-2.0.5.php on line 3
+[23-Jul-2018 08:45:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-2.2.2.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-2.2.2.php on line 2
+[23-Jul-2018 08:45:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-2.3.0.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-2.3.0.php on line 3
+[23-Jul-2018 08:45:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-2.6.2.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-2.6.2.php on line 3
+[23-Jul-2018 08:45:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-2.9.3.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-2.9.3.php on line 3
+[23-Jul-2018 08:46:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.1.5.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.1.5.php on line 6
+[23-Jul-2018 08:46:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.1.5.php:6
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.1.5b3.php(2): include()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.1.5.php on line 6
+[23-Jul-2018 08:46:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.1.8.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.1.8.php on line 4
+[23-Jul-2018 08:46:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function repair_el_type_collate() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.1.9.5.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.1.9.5.php on line 3
+[23-Jul-2018 08:46:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.1.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.1.php on line 5
+[23-Jul-2018 08:46:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.2.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.2.php on line 11
+[23-Jul-2018 08:46:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.3.7.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.3.7.php on line 10
+[23-Jul-2018 08:46:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.5.0.php:24
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.5.0.php(31): update_icl_strings_charset_and_collations()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.5.0.php on line 24
+[23-Jul-2018 08:46:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function icl_table_column_exists() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.5.1.php:6
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.5.1.php(72): update_icl_strings_charset_and_collations()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade-functions/upgrade-3.5.1.php on line 6

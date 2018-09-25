@@ -1,0 +1,2 @@
+[23-Jul-2018 08:46:06 CST6CDT] PHP Fatal error:  Interface 'Twig_CacheInterface' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/Cache/Filesystem.php on line 17
+[23-Jul-2018 08:46:06 CST6CDT] PHP Fatal error:  Interface 'Twig_CacheInterface' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/Cache/Null.php on line 19

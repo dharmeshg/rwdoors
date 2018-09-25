@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:31 CST6CDT] PHP Fatal error:  Class 'WPML_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/language-switcher/class-wpml-language-switcher.php on line 8
+[23-Jul-2018 08:45:31 CST6CDT] PHP Fatal error:  Class 'WPML_Templates_Factory' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/language-switcher/class-wpml-ls-admin-ui.php on line 3
+[23-Jul-2018 08:45:37 CST6CDT] PHP Fatal error:  Class 'WPML_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/language-switcher/class-wpml-ls-model-build.php on line 3
+[23-Jul-2018 08:45:38 CST6CDT] PHP Fatal error:  Class 'WPML_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/language-switcher/class-wpml-ls-render.php on line 3

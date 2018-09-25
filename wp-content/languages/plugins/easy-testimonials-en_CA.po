@@ -1,0 +1,141 @@
+# Translation of Development (trunk) in English (Canada)
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-07 05:47:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: include/lib/GP_Media_Button/gold-plugins-media-button.class.php:155
+msgid "Insert Now"
+msgstr "Insert Now"
+
+#: include/lib/GP_Media_Button/gold-plugins-media-button.class.php:105
+msgid "Error: You must specify a base and a shortcode."
+msgstr "Error: You must specify a base and a shortcode."
+
+#: include/lib/GP_Media_Button/gold-plugins-media-button.class.php:149
+msgid "There are no options for this widget."
+msgstr "There are no options for this widget."
+
+#: include/theme_options.php:69
+msgid "This Theme Requires Pro! Upgrade to Easy Testimonials Pro now"
+msgstr "This Theme Requires Pro! Upgrade to Easy Testimonials Pro now"
+
+#: easy-testimonials.php:723
+msgid "Testimonial Category"
+msgstr "Testimonial Category"
+
+#: include/easy_testimonial_options.php:221
+msgid "Basic Options"
+msgstr "Basic Options"
+
+#: include/easy_testimonial_options.php:222
+msgid "Display Options"
+msgstr "Display Options"
+
+#: include/easy_testimonial_options.php:223
+msgid "Themes"
+msgstr "Themes"
+
+#: include/easy_testimonial_options.php:224
+msgid "Submission Form Options"
+msgstr "Submission Form Options"
+
+#: include/easy_testimonial_options.php:225
+msgid "Shortcode Generator"
+msgstr "Shortcode Generator"
+
+#: include/easy_testimonial_options.php:226
+msgid "Import & Export"
+msgstr "Import & Export"
+
+#: include/easy_testimonial_options.php:227
+msgid "Help & Instructions"
+msgstr "Help & Instructions"
+
+#: include/easy_testimonial_options.php:523
+#: include/easy_testimonial_options.php:683
+#: include/easy_testimonial_options.php:1191
+#: include/easy_testimonial_options.php:1301 include/theme_options.php:104
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: include/easy_testimonial_options.php:544
+#: include/easy_testimonial_options.php:726 include/theme_options.php:27
+msgid "Upgrade to Easy Testimonials Pro now"
+msgstr "Upgrade to Easy Testimonials Pro now"
+
+#: include/theme_options.php:27 include/theme_options.php:69
+msgid "to unlock all 75+ themes!"
+msgstr "to unlock all 75+ themes!"
+
+#: include/easy_testimonial_options.php:544
+#: include/easy_testimonial_options.php:726
+msgid "and get access to new features and settings."
+msgstr "and get access to new features and settings."
+
+#: include/easy_testimonial_options.php:1304
+msgid "Import From Hello Testimonials Now"
+msgstr "Import From Hello Testimonials Now"
+
+#: include/lib/ik-custom-post-type.php:29
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: include/lib/ik-custom-post-type.php:30
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: include/lib/ik-custom-post-type.php:44
+#: include/lib/ik-custom-post-type.php:45
+msgid "Add New Testimonial"
+msgstr "Add New Testimonial"
+
+#: include/lib/ik-custom-post-type.php:46
+msgid "Edit Testimonial"
+msgstr "Edit Testimonial"
+
+#: include/lib/ik-custom-post-type.php:47
+msgid "New Testimonial"
+msgstr "New Testimonial"
+
+#: include/lib/ik-custom-post-type.php:48
+msgid "View Testimonial"
+msgstr "View Testimonial"
+
+#: include/lib/ik-custom-post-type.php:49
+msgid "Search Testimonial"
+msgstr "Search Testimonial"
+
+#: include/lib/ik-custom-post-type.php:50
+msgid "No testimonials found"
+msgstr "No testimonials found"
+
+#: include/lib/ik-custom-post-type.php:51
+msgid "No testimonials found in Trash"
+msgstr "No testimonials found in Trash"
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Testimonials"
+msgstr "Easy Testimonials"
+
+#. Plugin URI of the plugin/theme
+msgid "https://goldplugins.com/our-plugins/easy-testimonials-details/"
+msgstr "https://goldplugins.com/our-plugins/easy-testimonials-details/"
+
+#. Description of the plugin/theme
+msgid "Easy Testimonials - Provides custom post type, shortcode, sidebar widget, and other functionality for testimonials."
+msgstr "Easy Testimonials - Provides custom post type, shortcode, sidebar widget, and other functionality for testimonials."
+
+#. Author of the plugin/theme
+msgid "Gold Plugins"
+msgstr "Gold Plugins"
+
+#. Author URI of the plugin/theme
+msgid "https://goldplugins.com"
+msgstr "https://goldplugins.com"

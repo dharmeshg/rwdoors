@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Class 'WP_Async_Request' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/ewww-image-optimizer/classes/class-ewwwio-background-process.php on line 16

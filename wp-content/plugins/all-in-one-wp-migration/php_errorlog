@@ -1,0 +1,10 @@
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugins_url() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/all-in-one-wp-migration.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/all-in-one-wp-migration.php on line 52
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'AI1WM_VENDOR_PATH/bandar/bandar/lib/Bandar.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/loader.php on line 35
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugins_url() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/all-in-one-wp-migration.php:52
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/uninstall.php(29): require_once()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/all-in-one-wp-migration.php on line 52

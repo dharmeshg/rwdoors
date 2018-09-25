@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:25 CST6CDT] PHP Fatal error:  Interface 'IWPML_Backend_Action_Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/classes/actions/class-wpml-st-remote-string-translation-factory.php on line 3
+[23-Jul-2018 08:45:25 CST6CDT] PHP Fatal error:  Class 'WPML_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/classes/actions/class-wpml-st-wp-loaded-action.php on line 3

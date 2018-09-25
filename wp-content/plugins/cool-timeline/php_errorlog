@@ -1,0 +1,4 @@
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_url() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/cool-timeline/cooltimeline.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/cool-timeline/cooltimeline.php on line 34

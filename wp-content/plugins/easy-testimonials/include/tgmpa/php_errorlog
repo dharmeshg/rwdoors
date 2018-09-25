@@ -1,0 +1,8 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function did_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/tgmpa/class-tgm-plugin-activation.php:2109
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/tgmpa/class-tgm-plugin-activation.php on line 2109
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/tgmpa/init.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/tgmpa/init.php on line 27

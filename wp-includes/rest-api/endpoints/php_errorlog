@@ -1,0 +1,10 @@
+[28-May-2018 04:57:54 CST6CDT] PHP Fatal error:  Class 'WP_REST_Posts_Controller' not found in /home/rwdoors/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[28-May-2018 04:58:05 CST6CDT] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/rwdoors/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[28-May-2018 04:58:17 CST6CDT] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/rwdoors/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17
+[28-May-2018 04:58:29 CST6CDT] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/rwdoors/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[28-May-2018 04:58:41 CST6CDT] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/rwdoors/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[28-May-2018 04:58:52 CST6CDT] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/rwdoors/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[28-May-2018 04:59:03 CST6CDT] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/rwdoors/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[28-May-2018 04:59:14 CST6CDT] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/rwdoors/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[28-May-2018 04:59:27 CST6CDT] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/rwdoors/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[28-May-2018 04:59:38 CST6CDT] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/rwdoors/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17

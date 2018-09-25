@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2SmartsliderSlidersModel' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/wordpress/backend/inline/publish.phtml:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/wordpress/backend/inline/publish.phtml on line 2

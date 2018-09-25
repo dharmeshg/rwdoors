@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:53 CST6CDT] PHP Fatal error:  Class 'WPML_AJAX_Base_Factory' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/classes/strings-scanning/factory/class-wpml-st-theme-plugin-scan-dir-ajax-factory.php on line 3

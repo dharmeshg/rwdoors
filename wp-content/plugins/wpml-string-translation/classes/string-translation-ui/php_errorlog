@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:32 CST6CDT] PHP Fatal error:  Class 'WPML_WPDB_And_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/classes/string-translation-ui/class-wpml-change-string-domain-language-dialog.php on line 3
+[23-Jul-2018 08:45:35 CST6CDT] PHP Fatal error:  Class 'WPML_Templates_Factory' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/classes/string-translation-ui/class-wpml-translation-priority-select.php on line 6

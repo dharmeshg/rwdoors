@@ -1,0 +1,30 @@
+[23-Jul-2018 08:45:30 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Request' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/_mainmenu.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/_mainmenu.php on line 2
+[23-Jul-2018 08:45:31 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Request' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/_mainmenu.php:2
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/default.phtml(8): include()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/_mainmenu.php on line 2
+[23-Jul-2018 08:45:32 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Request' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/_mainmenu.php:2
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/default1c.phtml(8): include()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/_mainmenu.php on line 2
+[23-Jul-2018 08:45:32 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Platform' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/embed.phtml:30
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/embed.phtml on line 30
+[23-Jul-2018 08:45:34 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Base' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/lightbox.phtml:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/lightbox.phtml on line 2
+[23-Jul-2018 08:45:34 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/preview.phtml:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/preview.phtml on line 6
+[23-Jul-2018 08:45:35 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/sidebar.phtml:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/layouts/sidebar.phtml on line 6

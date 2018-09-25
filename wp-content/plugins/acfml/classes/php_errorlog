@@ -1,0 +1,7 @@
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Class 'WPML_ACF_Field' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/acfml/classes/class-wpml-acf-page-link-field.php on line 3
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Interface 'WPML_ACF_Convertable' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/acfml/classes/class-wpml-acf-post-ids.php on line 2
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Class 'WPML_ACF_Field' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/acfml/classes/class-wpml-acf-post-object-field.php on line 3
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Class 'WPML_ACF_Field' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/acfml/classes/class-wpml-acf-relationship-field.php on line 3
+[23-Jul-2018 08:45:00 CST6CDT] PHP Fatal error:  Class 'WPML_ACF_Field' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/acfml/classes/class-wpml-acf-taxonomy-field.php on line 3
+[23-Jul-2018 08:45:00 CST6CDT] PHP Fatal error:  Interface 'WPML_ACF_Convertable' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/acfml/classes/class-wpml-acf-term-ids.php on line 2
+[23-Jul-2018 08:45:01 CST6CDT] PHP Fatal error:  Class 'WPML_ACF_Field' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/acfml/classes/class-wpml-acf-void-field.php on line 3

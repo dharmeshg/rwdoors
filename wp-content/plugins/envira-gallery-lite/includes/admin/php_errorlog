@@ -1,0 +1,76 @@
+[23-Jul-2018 08:45:02 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/addons.php:56
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/addons.php(636): Envira_Gallery_Addons->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/addons.php(646): Envira_Gallery_Addons::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/addons.php on line 56
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/ajax.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/ajax.php on line 11
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/common.php:56
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/common.php(553): Envira_Gallery_Common_Admin->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/common.php(563): Envira_Gallery_Common_Admin::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/common.php on line 56
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/editor.php:56
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/editor.php(232): Envira_Gallery_Editor->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/editor.php(242): Envira_Gallery_Editor::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/editor.php on line 56
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/license.php:74
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/license.php(535): Envira_Gallery_License->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/license.php(545): Envira_Gallery_License::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/license.php on line 74
+[23-Jul-2018 08:45:07 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/media-view.php:47
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/media-view.php(519): Envira_Gallery_Media_View->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/media-view.php(529): Envira_Gallery_Media_View::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/media-view.php on line 47
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/media.php:47
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/media.php(286): Envira_Gallery_Media->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/media.php(296): Envira_Gallery_Media::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/media.php on line 47
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/metaboxes.php:47
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/metaboxes.php(1994): Envira_Gallery_Metaboxes->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/metaboxes.php(2004): Envira_Gallery_Metaboxes::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/metaboxes.php on line 47
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/notice.php:59
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/notice.php(188): Envira_Gallery_Notice_Admin->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/notice.php(198): Envira_Gallery_Notice_Admin::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/notice.php on line 59
+[23-Jul-2018 08:45:10 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/posttype.php:47
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/posttype.php(137): Envira_Gallery_Posttype_Admin->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/posttype.php(149): Envira_Gallery_Posttype_Admin::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/posttype.php on line 47
+[23-Jul-2018 08:45:10 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/review.php:65
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/review.php(204): Envira_Lite_Review->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/review.php(212): Envira_Lite_Review::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/review.php on line 65
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/settings.php:56
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/settings.php(680): Envira_Gallery_Settings->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/settings.php(690): Envira_Gallery_Settings::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/settings.php on line 56
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Envira_Gallery_Lite' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/table.php:56
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/table.php(495): Envira_Gallery_Table_Admin->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/table.php(505): Envira_Gallery_Table_Admin::get_instance()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/envira-gallery-lite/includes/admin/table.php on line 56

@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:51 CST6CDT] PHP Fatal error:  Class 'GuzzleHttp\Cookie\CookieJar' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 7

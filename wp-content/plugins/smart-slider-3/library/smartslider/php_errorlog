@@ -1,0 +1,5 @@
+[23-Jul-2018 08:45:02 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/N2SmartsliderApplication.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/N2SmartsliderApplication.php on line 2
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Class 'N2ApplicationInfo' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/N2SmartsliderApplicationInfo.php on line 3

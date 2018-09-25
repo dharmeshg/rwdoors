@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:33 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/classes/widgets/wp-widget-text-icl.php on line 3

@@ -1,0 +1,3 @@
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Class 'WpSmushNextGen' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/nextgen-integration/class-wp-smush-nextgen-admin.php on line 16
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Class 'WpSmushNextGen' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/nextgen-integration/class-wp-smush-nextgen-bulk.php on line 3
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Class 'WpSmushNextGen' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/nextgen-integration/class-wp-smush-nextgen-stats.php on line 16

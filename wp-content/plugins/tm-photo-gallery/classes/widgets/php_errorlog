@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:29 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/classes/widgets/class-gallery-widget.php on line 17

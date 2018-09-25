@@ -1,0 +1,22 @@
+[16-Oct-2017 19:27:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Oct-2017 19:27:52 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[16-Oct-2017 19:27:54 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Oct-2017 19:27:54 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[16-Oct-2017 19:27:56 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Oct-2017 19:27:56 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[16-Oct-2017 23:37:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Oct-2017 23:37:03 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[17-Oct-2017 09:12:50 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Oct-2017 09:12:50 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[20-Oct-2017 21:53:45 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Oct-2017 21:53:45 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[20-Nov-2017 00:28:57 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Nov-2017 00:28:57 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[20-Nov-2017 00:35:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Nov-2017 00:35:35 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[20-Nov-2017 02:53:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Nov-2017 02:53:03 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[20-Nov-2017 03:54:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Nov-2017 03:54:09 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[26-Nov-2017 03:50:24 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Nov-2017 03:50:24 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0

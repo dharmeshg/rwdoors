@@ -1,0 +1,4 @@
+[28-May-2018 11:33:39 CST6CDT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/rwdoors/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[28-May-2018 11:33:50 CST6CDT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/rwdoors/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[28-May-2018 11:34:00 CST6CDT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/rwdoors/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[28-May-2018 11:34:11 CST6CDT] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/rwdoors/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57

@@ -1,0 +1,5 @@
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/extras/dash-notice/wpmudev-dash-notification.php:17
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/extras/dash-notice/wpmudev-dash-notification.php(1294): WPMUDEV_Dashboard_Notice4->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/extras/dash-notice/wpmudev-dash-notification.php on line 17

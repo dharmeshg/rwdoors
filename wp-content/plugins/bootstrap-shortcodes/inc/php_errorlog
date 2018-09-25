@@ -1,0 +1,40 @@
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_alert.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_alert.php on line 14
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_buttons.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_buttons.php on line 14
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_collapse.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_collapse.php on line 13
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_grid.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_grid.php on line 13
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_icons.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_icons.php on line 12
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_labels.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_labels.php on line 11
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_lead.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_lead.php on line 11
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_tabs.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_tabs.php on line 24
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_tooltip.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_tooltip.php on line 15
+[23-Jul-2018 08:44:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_well.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/bootstrap-shortcodes/inc/bs_well.php on line 13

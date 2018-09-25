@@ -1,0 +1,8 @@
+[23-Jul-2018 08:45:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function renderSetsForm() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/applications/system/backend/inline/sidebar/font.phtml:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/applications/system/backend/inline/sidebar/font.phtml on line 6
+[23-Jul-2018 08:45:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function renderSetsForm() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/applications/system/backend/inline/sidebar/style.phtml:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/applications/system/backend/inline/sidebar/style.phtml on line 6

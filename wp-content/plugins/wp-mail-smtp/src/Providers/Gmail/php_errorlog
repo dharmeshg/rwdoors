@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:36 CST6CDT] PHP Fatal error:  Class 'WPMailSMTP\Providers\AuthAbstract' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-mail-smtp/src/Providers/Gmail/Auth.php on line 14
+[23-Jul-2018 08:45:37 CST6CDT] PHP Fatal error:  Class 'WPMailSMTP\Providers\MailerAbstract' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-mail-smtp/src/Providers/Gmail/Mailer.php on line 14

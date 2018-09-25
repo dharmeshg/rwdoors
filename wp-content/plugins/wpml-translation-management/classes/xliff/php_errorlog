@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:35 CST6CDT] PHP Fatal error:  Class 'WPML_TM_Job_Factory_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/xliff/class-wpml-tm-general-xliff-import.php on line 3
+[23-Jul-2018 08:45:37 CST6CDT] PHP Fatal error:  Class 'WPML_TM_Xliff_Reader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/xliff/class-wpml-tm-general-xliff-reader.php on line 3

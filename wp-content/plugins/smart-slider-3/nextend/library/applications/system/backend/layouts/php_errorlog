@@ -1,0 +1,8 @@
+[23-Jul-2018 08:45:49 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Base' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/applications/system/backend/layouts/default.phtml:11
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/applications/system/backend/layouts/default.phtml on line 11
+[23-Jul-2018 08:45:59 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/applications/system/backend/layouts/lightbox.phtml:16
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/library/applications/system/backend/layouts/lightbox.phtml on line 16

@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:28 CST6CDT] PHP Fatal error:  Class 'WPML_TM_AJAX' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/ICL-20-migration/class-wpml-tm-icl20-migration-ajax.php on line 6
+[23-Jul-2018 08:45:28 CST6CDT] PHP Fatal error:  Class 'WPMLTranslationProxyApiException' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/ICL-20-migration/class-wpml-tm-icl20-migration-exception.php on line 6

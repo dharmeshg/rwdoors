@@ -1,0 +1,30 @@
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/ajax.php:34
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/ajax.php(82): acf_ajax->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/ajax.php on line 34
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/compatibility.php:21
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/compatibility.php(589): acf_compatibility->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/compatibility.php on line 21
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/location.php:21
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/location.php(1211): acf_location->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/location.php on line 21
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/media.php:22
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/media.php(243): acf_media->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/media.php on line 22
+[23-Jul-2018 08:45:20 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/third_party.php:34
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/third_party.php(178): acf_third_party->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/third_party.php on line 34
+[23-Jul-2018 08:45:20 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function acf_update_setting() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/wpml.php:36
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/wpml.php(482): acf_wpml_compatibility->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/core/wpml.php on line 36

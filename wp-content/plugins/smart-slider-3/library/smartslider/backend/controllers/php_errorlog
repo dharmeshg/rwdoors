@@ -1,0 +1,11 @@
+[23-Jul-2018 08:45:27 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/controllers/Backgroundanimation.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/controllers/Backgroundanimation.php on line 2
+[23-Jul-2018 08:45:28 CST6CDT] PHP Fatal error:  Class 'N2SmartSliderController' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/controllers/Generator.php on line 3
+[23-Jul-2018 08:45:28 CST6CDT] PHP Fatal error:  Class 'N2SmartSliderController' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/controllers/Install.php on line 4
+[23-Jul-2018 08:45:29 CST6CDT] PHP Fatal error:  Class 'N2SmartSliderController' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/controllers/Preview.php on line 3
+[23-Jul-2018 08:45:29 CST6CDT] PHP Fatal error:  Class 'N2SmartSliderController' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/controllers/Settings.php on line 3
+[23-Jul-2018 08:45:29 CST6CDT] PHP Fatal error:  Class 'N2SmartSliderController' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/controllers/Slider.php on line 3
+[23-Jul-2018 08:45:30 CST6CDT] PHP Fatal error:  Class 'N2SmartSliderController' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/controllers/Sliders.php on line 3
+[23-Jul-2018 08:45:31 CST6CDT] PHP Fatal error:  Class 'N2SmartSliderController' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/backend/controllers/Slides.php on line 3

@@ -1,0 +1,30 @@
+[23-Jul-2018 08:45:17 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/Ajax.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/Ajax.php on line 4
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Class 'N2Model' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/Install.php on line 4
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/Item.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/Item.php on line 3
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Class 'N2Model' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/Layers.php on line 3
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Class 'NextendModel' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/Modules.php on line 3
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Class 'NextendModel' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/ModulesMenu.php on line 3
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Class 'N2Model' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/Settings.php on line 3
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/Sliders.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/Sliders.php on line 3
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/SlidersXref.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/SlidersXref.php on line 3
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Class 'N2Model' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/Slides.php on line 3
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/backgroundanimation.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/backgroundanimation.php on line 2
+[23-Jul-2018 08:45:19 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'N2Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/generator.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/library/smartslider/models/generator.php on line 2

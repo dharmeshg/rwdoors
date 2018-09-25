@@ -1,0 +1,6 @@
+[23-Jul-2018 08:45:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_admin_language() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/translation-proxy/translationproxy-popup.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/translation-proxy/translationproxy-popup.php on line 39
+[23-Jul-2018 08:45:24 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'WPML_TM_PATH/inc/translation-proxy/functions.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/translation-proxy/translationproxy.class.php on line 6
+[23-Jul-2018 08:45:24 CST6CDT] PHP Fatal error:  Class 'WPML_TM_Job_Factory_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/inc/translation-proxy/wpml-pro-translation.class.php on line 10

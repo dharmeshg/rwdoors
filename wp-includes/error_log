@@ -1,0 +1,183 @@
+[10-Oct-2017 01:38:02 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2017 01:38:02 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[10-Oct-2017 01:38:02 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[10-Oct-2017 01:48:49 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Oct-2017 01:48:49 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[10-Oct-2017 01:48:49 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[21-Oct-2017 16:19:22 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2017 16:19:22 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[21-Oct-2017 16:19:22 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/registration-functions.php on line 7
+[12-Nov-2017 20:45:29 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[12-Nov-2017 20:45:29 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[12-Nov-2017 20:45:29 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[12-Nov-2017 21:09:24 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[12-Nov-2017 21:09:24 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[12-Nov-2017 21:09:24 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[27-Nov-2017 02:04:28 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Nov-2017 02:04:28 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[27-Nov-2017 02:04:28 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[27-Nov-2017 02:30:56 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Nov-2017 02:30:56 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[27-Nov-2017 02:30:56 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[27-Nov-2017 09:06:49 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Nov-2017 09:06:49 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[27-Nov-2017 09:06:49 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[27-Nov-2017 11:40:28 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Nov-2017 11:40:28 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[27-Nov-2017 11:40:28 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[18-Dec-2017 08:52:27 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-wp-customize-control.php on line 681
+[18-Dec-2017 08:52:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-wp-customize-control.php on line 681
+[19-Dec-2017 08:04:27 UTC] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-IXR.php on line 42
+[19-Dec-2017 08:04:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-IXR.php on line 42
+[19-Dec-2017 08:04:29 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/class-feed.php on line 9
+[19-Dec-2017 08:04:31 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-http.php on line 11
+[19-Dec-2017 08:04:31 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-http.php on line 11
+[19-Dec-2017 08:04:44 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-simplepie.php on line 5
+[19-Dec-2017 08:04:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-simplepie.php on line 5
+[19-Dec-2017 08:04:48 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/class-snoopy.php on line 6
+[19-Dec-2017 08:04:50 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[19-Dec-2017 08:04:55 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-category.php on line 17
+[19-Dec-2017 08:04:58 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-comment.php on line 17
+[19-Dec-2017 08:05:00 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[19-Dec-2017 08:05:02 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[19-Dec-2017 08:05:05 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-page.php on line 17
+[19-Dec-2017 08:05:16 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-wp-customize-control.php on line 681
+[19-Dec-2017 08:05:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-wp-customize-control.php on line 681
+[19-Dec-2017 08:05:22 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-wp-customize-panel.php on line 399
+[19-Dec-2017 08:05:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-wp-customize-panel.php on line 399
+[19-Dec-2017 08:05:24 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-wp-customize-section.php on line 397
+[19-Dec-2017 08:05:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-wp-customize-section.php on line 397
+[19-Dec-2017 08:05:27 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-wp-customize-setting.php on line 955
+[19-Dec-2017 08:05:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-wp-customize-setting.php on line 955
+[19-Dec-2017 08:05:45 UTC] PHP Fatal error:  Class 'SimplePie_Cache' not found in /home/rwdoors/public_html/wp-includes/class-wp-feed-cache.php on line 17
+[19-Dec-2017 08:05:57 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/rwdoors/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[19-Dec-2017 08:06:02 UTC] PHP Fatal error:  Class 'Requests_Hooks' not found in /home/rwdoors/public_html/wp-includes/class-wp-http-requests-hooks.php on line 17
+[19-Dec-2017 08:06:04 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/rwdoors/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[19-Dec-2017 08:06:11 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/rwdoors/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[19-Dec-2017 08:06:13 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/rwdoors/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[19-Dec-2017 08:06:52 UTC] PHP Fatal error:  Class 'SimplePie_File' not found in /home/rwdoors/public_html/wp-includes/class-wp-simplepie-file.php on line 17
+[19-Dec-2017 08:06:54 UTC] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/rwdoors/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[19-Dec-2017 08:07:12 UTC] PHP Fatal error:  Class 'Text_Diff_Renderer_inline' not found in /home/rwdoors/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 16
+[19-Dec-2017 08:07:15 UTC] PHP Fatal error:  Class 'Text_Diff_Renderer' not found in /home/rwdoors/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 16
+[19-Dec-2017 08:07:37 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/rwdoors/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[19-Dec-2017 08:07:44 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/rwdoors/public_html/wp-includes/class.wp-scripts.php on line 18
+[19-Dec-2017 08:07:47 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/rwdoors/public_html/wp-includes/class.wp-styles.php on line 18
+[19-Dec-2017 08:07:53 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/compat.php on line 435
+[19-Dec-2017 08:07:53 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/compat.php on line 435
+[19-Dec-2017 08:08:05 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/rwdoors/public_html/wp-includes/default-filters.php on line 17
+[19-Dec-2017 08:08:07 UTC] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/default-widgets.php on line 11
+[19-Dec-2017 08:08:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/default-widgets.php on line 11
+[19-Dec-2017 08:08:13 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/embed-template.php on line 11
+[19-Dec-2017 08:08:18 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/rwdoors/public_html/wp-includes/feed-atom-comments.php on line 8
+[19-Dec-2017 08:08:21 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/rwdoors/public_html/wp-includes/feed-atom.php on line 8
+[19-Dec-2017 08:08:24 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/rwdoors/public_html/wp-includes/feed-rdf.php on line 8
+[19-Dec-2017 08:08:26 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/rwdoors/public_html/wp-includes/feed-rss.php on line 8
+[19-Dec-2017 08:08:28 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/rwdoors/public_html/wp-includes/feed-rss2-comments.php on line 8
+[19-Dec-2017 08:08:32 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/rwdoors/public_html/wp-includes/feed-rss2.php on line 8
+[19-Dec-2017 08:08:41 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/functions.php on line 8
+[19-Dec-2017 08:08:41 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/functions.php on line 8
+[19-Dec-2017 08:09:05 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/locale.php on line 10
+[19-Dec-2017 08:09:10 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/rwdoors/public_html/wp-includes/media.php on line 1486
+[19-Dec-2017 08:09:19 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/rwdoors/public_html/wp-includes/ms-default-filters.php on line 16
+[19-Dec-2017 08:09:29 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/ms-settings.php on line 26
+[19-Dec-2017 08:09:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/ms-settings.php on line 26
+[19-Dec-2017 08:09:31 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/nav-menu-template.php on line 11
+[19-Dec-2017 08:09:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/nav-menu-template.php on line 11
+[19-Dec-2017 08:09:59 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/registration-functions.php on line 7
+[19-Dec-2017 08:10:01 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/registration.php on line 7
+[19-Dec-2017 08:10:12 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[19-Dec-2017 08:10:14 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss.php on line 19
+[19-Dec-2017 08:10:17 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/script-loader.php on line 20
+[19-Dec-2017 08:10:17 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/script-loader.php on line 20
+[19-Dec-2017 08:10:19 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/session.php on line 8
+[19-Dec-2017 08:10:25 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/rwdoors/public_html/wp-includes/template-loader.php on line 28
+[19-Dec-2017 08:10:33 UTC] PHP Fatal error:  Call to undefined function is_main_site() in /home/rwdoors/public_html/wp-includes/update.php on line 711
+[19-Dec-2017 08:10:37 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/rwdoors/public_html/wp-includes/vars.php on line 23
+[19-Dec-2017 08:10:52 UTC] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/wp-diff.php on line 13
+[19-Dec-2017 08:10:52 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/wp-diff.php on line 13
+[20-Dec-2017 15:48:33 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-wp-customize-control.php on line 681
+[20-Dec-2017 15:48:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-wp-customize-control.php on line 681
+[22-Dec-2017 02:09:12 UTC] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/default-widgets.php on line 11
+[22-Dec-2017 02:09:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/default-widgets.php on line 11
+[22-Dec-2017 16:33:41 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/rwdoors/public_html/wp-includes/ms-default-filters.php on line 16
+[22-Dec-2017 22:41:02 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/class-snoopy.php on line 6
+[23-Dec-2017 10:21:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/rwdoors/public_html/wp-includes/ms-default-filters.php on line 16
+[26-Dec-2017 21:30:02 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-comment.php on line 17
+[27-Dec-2017 01:03:44 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-wp-customize-control.php on line 681
+[27-Dec-2017 01:03:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-wp-customize-control.php on line 681
+[31-Dec-2017 20:09:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/rwdoors/public_html/wp-includes/ms-default-filters.php on line 16
+[13-Jan-2018 05:05:21 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[13-Jan-2018 05:22:20 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[18-Jan-2018 11:36:46 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/session.php on line 8
+[19-Jan-2018 22:14:55 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/locale.php on line 10
+[09-Feb-2018 23:38:31 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[09-Feb-2018 23:50:19 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[08-Mar-2018 13:44:15 UTC] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-IXR.php on line 42
+[08-Mar-2018 13:44:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-IXR.php on line 42
+[08-Mar-2018 13:44:17 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/class-feed.php on line 9
+[08-Mar-2018 13:44:22 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-http.php on line 11
+[08-Mar-2018 13:44:22 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-http.php on line 11
+[08-Mar-2018 13:44:46 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-simplepie.php on line 5
+[08-Mar-2018 13:44:46 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-simplepie.php on line 5
+[08-Mar-2018 13:44:50 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/class-snoopy.php on line 6
+[08-Mar-2018 13:44:52 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[08-Mar-2018 13:44:54 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-category.php on line 17
+[08-Mar-2018 13:45:17 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-comment.php on line 17
+[08-Mar-2018 13:45:19 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[08-Mar-2018 13:45:21 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[08-Mar-2018 13:45:26 UTC] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-page.php on line 17
+[08-Mar-2018 13:45:37 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-wp-customize-control.php on line 681
+[08-Mar-2018 13:45:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-wp-customize-control.php on line 681
+[08-Mar-2018 13:46:03 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-wp-customize-panel.php on line 399
+[08-Mar-2018 13:46:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-wp-customize-panel.php on line 399
+[08-Mar-2018 13:46:06 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-wp-customize-section.php on line 397
+[08-Mar-2018 13:46:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-wp-customize-section.php on line 397
+[08-Mar-2018 13:46:07 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/class-wp-customize-setting.php on line 955
+[08-Mar-2018 13:46:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/class-wp-customize-setting.php on line 955
+[08-Mar-2018 13:46:20 UTC] PHP Fatal error:  Class 'SimplePie_Cache' not found in /home/rwdoors/public_html/wp-includes/class-wp-feed-cache.php on line 17
+[08-Mar-2018 13:46:33 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/rwdoors/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[08-Mar-2018 13:46:37 UTC] PHP Fatal error:  Class 'Requests_Hooks' not found in /home/rwdoors/public_html/wp-includes/class-wp-http-requests-hooks.php on line 17
+[08-Mar-2018 13:46:39 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/rwdoors/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[08-Mar-2018 13:46:44 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/rwdoors/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[08-Mar-2018 13:46:55 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/rwdoors/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[08-Mar-2018 13:48:29 UTC] PHP Fatal error:  Class 'SimplePie_File' not found in /home/rwdoors/public_html/wp-includes/class-wp-simplepie-file.php on line 17
+[08-Mar-2018 13:48:34 UTC] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/rwdoors/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[08-Mar-2018 13:48:51 UTC] PHP Fatal error:  Class 'Text_Diff_Renderer_inline' not found in /home/rwdoors/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 16
+[08-Mar-2018 13:48:53 UTC] PHP Fatal error:  Class 'Text_Diff_Renderer' not found in /home/rwdoors/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 16
+[08-Mar-2018 13:48:59 UTC] PHP Fatal error:  Class 'WP_Session_Tokens' not found in /home/rwdoors/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 15
+[08-Mar-2018 13:49:11 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/rwdoors/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[08-Mar-2018 13:49:17 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/rwdoors/public_html/wp-includes/class.wp-scripts.php on line 18
+[08-Mar-2018 13:49:22 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/rwdoors/public_html/wp-includes/class.wp-styles.php on line 18
+[08-Mar-2018 13:49:28 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/compat.php on line 435
+[08-Mar-2018 13:49:28 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/compat.php on line 435
+[08-Mar-2018 13:49:45 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/rwdoors/public_html/wp-includes/default-filters.php on line 17
+[08-Mar-2018 13:49:48 UTC] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/default-widgets.php on line 11
+[08-Mar-2018 13:49:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/default-widgets.php on line 11
+[08-Mar-2018 13:50:16 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/embed-template.php on line 11
+[08-Mar-2018 13:50:20 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/rwdoors/public_html/wp-includes/feed-atom-comments.php on line 8
+[08-Mar-2018 13:51:04 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/rwdoors/public_html/wp-includes/feed-rdf.php on line 8
+[08-Mar-2018 13:51:06 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/rwdoors/public_html/wp-includes/feed-rss.php on line 8
+[08-Mar-2018 13:51:07 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/rwdoors/public_html/wp-includes/feed-rss2-comments.php on line 8
+[08-Mar-2018 13:51:09 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/rwdoors/public_html/wp-includes/feed-rss2.php on line 8
+[08-Mar-2018 13:51:17 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/functions.php on line 8
+[08-Mar-2018 13:51:17 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/functions.php on line 8
+[08-Mar-2018 13:51:42 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/locale.php on line 10
+[08-Mar-2018 13:52:06 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/rwdoors/public_html/wp-includes/media.php on line 1486
+[08-Mar-2018 13:52:14 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/rwdoors/public_html/wp-includes/ms-default-filters.php on line 16
+[08-Mar-2018 13:52:28 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/ms-settings.php on line 26
+[08-Mar-2018 13:52:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/ms-settings.php on line 26
+[08-Mar-2018 13:52:30 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/nav-menu-template.php on line 11
+[08-Mar-2018 13:52:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/nav-menu-template.php on line 11
+[08-Mar-2018 13:53:03 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/registration-functions.php on line 7
+[08-Mar-2018 13:53:05 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/registration.php on line 7
+[08-Mar-2018 13:53:18 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[08-Mar-2018 13:53:23 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss.php on line 19
+[08-Mar-2018 13:53:25 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/script-loader.php on line 20
+[08-Mar-2018 13:53:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/script-loader.php on line 20
+[08-Mar-2018 13:53:26 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/session.php on line 8
+[08-Mar-2018 13:53:32 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/rwdoors/public_html/wp-includes/template-loader.php on line 28
+[08-Mar-2018 13:53:43 UTC] PHP Fatal error:  Call to undefined function is_main_site() in /home/rwdoors/public_html/wp-includes/update.php on line 711
+[08-Mar-2018 13:53:47 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/rwdoors/public_html/wp-includes/vars.php on line 23
+[08-Mar-2018 13:54:00 UTC] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home/rwdoors/public_html/wp-includes/wp-diff.php on line 13
+[08-Mar-2018 13:54:00 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rwdoors/public_html/wp-includes/wp-diff.php on line 13
+[11-Mar-2018 01:07:17 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8

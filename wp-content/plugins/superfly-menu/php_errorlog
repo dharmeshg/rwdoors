@@ -1,0 +1,20 @@
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/superfly-menu/main.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/superfly-menu/main.php on line 35
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function sf_get_options() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/superfly-menu/options-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/superfly-menu/options-page.php on line 17
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/superfly-menu/settings.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/superfly-menu/settings.php on line 3
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugins_url() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/superfly-menu/superfly-dynamic-styles.php:1022
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/superfly-menu/superfly-dynamic-styles.php on line 1022
+[23-Jul-2018 08:44:58 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'LA_IconManager' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/superfly-menu/superfly-menu.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/superfly-menu/superfly-menu.php on line 23

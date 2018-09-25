@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/cool-timeline/includes/metaboxes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/cool-timeline/includes/metaboxes.php on line 2

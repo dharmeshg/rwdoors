@@ -1,0 +1,3 @@
+[23-Jul-2018 08:46:07 CST6CDT] PHP Fatal error:  Interface 'Twig_LoaderInterface' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/Loader/Chain.php on line 19
+[23-Jul-2018 08:46:07 CST6CDT] PHP Fatal error:  Interface 'Twig_LoaderInterface' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 17
+[23-Jul-2018 08:46:07 CST6CDT] PHP Fatal error:  Interface 'Twig_LoaderInterface' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/Loader/String.php on line 30

@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:52 CST6CDT] PHP Fatal error:  Class 'Monolog\Formatter\JsonFormatter' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php on line 19
+[23-Jul-2018 08:45:53 CST6CDT] PHP Fatal error:  Interface 'Monolog\Formatter\FormatterInterface' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php on line 19

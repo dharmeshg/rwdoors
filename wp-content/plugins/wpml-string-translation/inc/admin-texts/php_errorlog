@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:26 CST6CDT] PHP Fatal error:  Class 'WPML_Admin_Text_Functionality' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/admin-texts/wpml-admin-texts.class.php on line 3

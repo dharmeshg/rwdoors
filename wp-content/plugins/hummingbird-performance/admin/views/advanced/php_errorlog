@@ -1,0 +1,8 @@
+[23-Jul-2018 08:45:37 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WP_Hummingbird_Utils' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/advanced/db-settings-meta-box-footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/advanced/db-settings-meta-box-footer.php on line 9
+[23-Jul-2018 08:45:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/advanced/general-meta-box.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/hummingbird-performance/admin/views/advanced/general-meta-box.php on line 13

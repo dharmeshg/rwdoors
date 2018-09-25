@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:37 CST6CDT] PHP Fatal error:  Interface 'IWPML_Action' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/API/Hooks/class-wpml-api-hook-copy-post-to-language.php on line 6

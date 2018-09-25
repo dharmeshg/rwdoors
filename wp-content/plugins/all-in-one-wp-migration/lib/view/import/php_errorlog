@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/import/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/all-in-one-wp-migration/lib/view/import/index.php on line 31

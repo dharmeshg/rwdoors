@@ -1,0 +1,44 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'WP_SMUSH_DIRlib/class-wp-smush-ui.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-admin.php on line 13
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-backup.php:25
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-backup.php(389): WpSmushBackup->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-backup.php on line 25
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-db.php:19
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-db.php(900): WpSmushDB->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-db.php on line 19
+[23-Jul-2018 08:45:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_multisite() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-dir.php:74
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-dir.php(29): WpSmushDir->should_continue()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-dir.php(1365): WpSmushDir->__construct()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-dir.php on line 74
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-resize.php:39
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-resize.php(397): WpSmushResize->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-resize.php on line 39
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-s3.php:31
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-s3.php(19): WpSmushS3->init()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-s3.php(397): WpSmushS3->__construct()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-s3.php on line 31
+[23-Jul-2018 08:45:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-settings.php:27
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-settings.php(265): WpSmushSettings->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-settings.php on line 27
+[23-Jul-2018 08:45:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-stats.php:19
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-stats.php(591): WpSmushStats->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-stats.php on line 19
+[23-Jul-2018 08:45:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-ui.php:29
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-ui.php(1361): WpSmushBulkUi->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush-ui.php on line 29
+[23-Jul-2018 08:45:13 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'WP_SMUSH_DIRlib/class-wp-smush-helper.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 4

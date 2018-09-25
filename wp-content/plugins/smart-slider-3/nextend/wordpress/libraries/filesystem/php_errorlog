@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:34 CST6CDT] PHP Fatal error:  Class 'N2FilesystemAbstract' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/smart-slider-3/nextend/wordpress/libraries/filesystem/filesystem.php on line 6

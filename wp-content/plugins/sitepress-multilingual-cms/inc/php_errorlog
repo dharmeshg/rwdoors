@@ -1,0 +1,54 @@
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/functions-load.php:410
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/functions-load.php on line 410
+[23-Jul-2018 08:45:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function wp_cache_add_global_groups() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/functions-network.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/functions-network.php on line 2
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/hacks.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/hacks.php on line 4
+[23-Jul-2018 08:45:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/icl-admin-notifier.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/icl-admin-notifier.php on line 14
+[23-Jul-2018 08:45:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/import-xml.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/import-xml.php on line 38
+[23-Jul-2018 08:45:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/js-scripts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/js-scripts.php on line 17
+[23-Jul-2018 08:45:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/not-compatible-plugins.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/not-compatible-plugins.php on line 6
+[23-Jul-2018 08:45:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/plugin-integration-nextgen.php:14
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/plugin-integration-nextgen.php(48): WPML_Plugin_Integration_Nexgen_Gallery->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/plugin-integration-nextgen.php on line 14
+[23-Jul-2018 08:45:12 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WPML_Action_Filter_Loader' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/plugins-integration.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/plugins-integration.php on line 3
+[23-Jul-2018 08:45:13 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/template-constants.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/template-constants.php on line 4
+[23-Jul-2018 08:45:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/template-functions.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/template-functions.php on line 53
+[23-Jul-2018 08:45:13 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WPML_WP_API' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/upgrade.php on line 3
+[23-Jul-2018 08:45:14 CST6CDT] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/wpml-post-comments.class.php on line 3
+[23-Jul-2018 08:45:14 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/wpml-private-actions.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/inc/wpml-private-actions.php on line 40

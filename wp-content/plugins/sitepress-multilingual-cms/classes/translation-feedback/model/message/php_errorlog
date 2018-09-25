@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:53 CST6CDT] PHP Fatal error:  Interface 'IWPML_TF_Data_Object' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/classes/translation-feedback/model/message/wpml-tf-message.php on line 8

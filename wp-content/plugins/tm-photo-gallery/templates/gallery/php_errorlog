@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:20 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/templates/gallery/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/tm-photo-gallery/templates/gallery/index.php on line 8

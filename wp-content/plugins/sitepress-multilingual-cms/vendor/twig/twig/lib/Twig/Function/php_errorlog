@@ -1,0 +1,2 @@
+[23-Jul-2018 08:46:07 CST6CDT] PHP Fatal error:  Class 'Twig_Function' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/Function/Method.php on line 24
+[23-Jul-2018 08:46:07 CST6CDT] PHP Fatal error:  Class 'Twig_Function' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/vendor/twig/twig/lib/Twig/Function/Node.php on line 23

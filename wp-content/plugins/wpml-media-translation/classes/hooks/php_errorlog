@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:22 CST6CDT] PHP Fatal error:  Interface 'IWPML_Action' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-media-translation/classes/hooks/wpml-media-edit-hooks.php on line 6

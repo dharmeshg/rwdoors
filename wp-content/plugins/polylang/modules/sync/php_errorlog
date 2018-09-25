@@ -1,0 +1,3 @@
+[23-Jul-2018 08:45:06 CST6CDT] PHP Fatal error:  Class 'PLL_Settings_Module' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/modules/sync/settings-sync.php on line 8
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Class 'PLL_Sync_Metas' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/modules/sync/sync-post-metas.php on line 8
+[23-Jul-2018 08:45:10 CST6CDT] PHP Fatal error:  Class 'PLL_Sync_Metas' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/polylang/modules/sync/sync-term-metas.php on line 8

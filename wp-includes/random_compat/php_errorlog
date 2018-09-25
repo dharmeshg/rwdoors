@@ -1,0 +1,14 @@
+[28-May-2018 09:26:04 CST6CDT] PHP Fatal error:  Cannot redeclare random_bytes() in /home/rwdoors/public_html/wp-includes/random_compat/random_bytes_libsodium.php on line 86
+[28-May-2018 09:26:16 CST6CDT] PHP Fatal error:  Cannot redeclare random_bytes() in /home/rwdoors/public_html/wp-includes/random_compat/random_bytes_libsodium_legacy.php on line 86
+[28-May-2018 09:26:29 CST6CDT] PHP Fatal error:  Cannot redeclare random_bytes() in /home/rwdoors/public_html/wp-includes/random_compat/random_bytes_mcrypt.php on line 76
+[28-May-2018 09:26:40 CST6CDT] PHP Fatal error:  Cannot redeclare random_bytes() in /home/rwdoors/public_html/wp-includes/random_compat/random_bytes_openssl.php on line 83
+[28-May-2018 09:26:53 CST6CDT] PHP Fatal error:  Cannot redeclare random_int() in /home/rwdoors/public_html/wp-includes/random_compat/random_int.php on line 191
+[28-May-2018 10:22:13 CST6CDT] PHP Fatal error:  Cannot redeclare random_bytes() in /home/rwdoors/public_html/wp-includes/random_compat/random_bytes_com_dotnet.php on line 81
+[28-May-2018 10:22:24 CST6CDT] PHP Fatal error:  Cannot redeclare random_bytes() in /home/rwdoors/public_html/wp-includes/random_compat/random_bytes_dev_urandom.php on line 148
+[29-May-2018 01:49:47 CST6CDT] PHP Fatal error:  Cannot redeclare random_bytes() in /home/rwdoors/public_html/wp-includes/random_compat/random_bytes_com_dotnet.php on line 81
+[29-May-2018 01:50:10 CST6CDT] PHP Fatal error:  Cannot redeclare random_bytes() in /home/rwdoors/public_html/wp-includes/random_compat/random_bytes_dev_urandom.php on line 148
+[29-May-2018 01:50:31 CST6CDT] PHP Fatal error:  Cannot redeclare random_bytes() in /home/rwdoors/public_html/wp-includes/random_compat/random_bytes_libsodium.php on line 86
+[29-May-2018 01:50:54 CST6CDT] PHP Fatal error:  Cannot redeclare random_bytes() in /home/rwdoors/public_html/wp-includes/random_compat/random_bytes_libsodium_legacy.php on line 86
+[29-May-2018 01:51:16 CST6CDT] PHP Fatal error:  Cannot redeclare random_bytes() in /home/rwdoors/public_html/wp-includes/random_compat/random_bytes_mcrypt.php on line 76
+[29-May-2018 01:51:38 CST6CDT] PHP Fatal error:  Cannot redeclare random_bytes() in /home/rwdoors/public_html/wp-includes/random_compat/random_bytes_openssl.php on line 83
+[29-May-2018 01:52:00 CST6CDT] PHP Fatal error:  Cannot redeclare random_int() in /home/rwdoors/public_html/wp-includes/random_compat/random_int.php on line 191

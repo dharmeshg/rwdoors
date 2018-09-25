@@ -1,0 +1,12 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/menu/sitepress-table.class.php on line 7
+[23-Jul-2018 08:45:04 CST6CDT] PHP Fatal error:  Class 'WPML_TM_Menus' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/menu/wpml-tm-menus-management.php on line 3
+[23-Jul-2018 08:45:05 CST6CDT] PHP Fatal error:  Class 'WPML_TM_Menus' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/menu/wpml-tm-menus-settings.php on line 3
+[23-Jul-2018 08:45:07 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'WPML_TM_PATH/inc/translation-jobs/wpml-translation-jobs-collection.class.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/menu/wpml-translation-jobs-table.class.php on line 2
+[23-Jul-2018 08:45:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/menu/xliff-management.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/menu/xliff-management.php on line 8
+[23-Jul-2018 08:45:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/menu/xliff-options.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/menu/xliff-options.php on line 7

@@ -1,0 +1,1 @@
+[23-Jul-2018 08:44:57 CST6CDT] PHP Fatal error:  Class 'wpdb' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wp-clone-by-wp-academy/lib/class.wpc-wpdb.php on line 10

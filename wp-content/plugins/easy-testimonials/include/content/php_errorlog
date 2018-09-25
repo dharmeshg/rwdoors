@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function menu_page_url() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/content/welcome.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/easy-testimonials/include/content/welcome.php on line 6

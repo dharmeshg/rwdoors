@@ -1,0 +1,6 @@
+[23-Jul-2018 08:45:25 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WPML_ST_Package_Cleanup' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/package-translation/inc/wpml-package-translation-helper.class.php:17
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/package-translation/inc/wpml-package-translation.class.php(9): WPML_Package_Helper->__construct()
+#1 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/package-translation/wpml-package-translation.php(30): WPML_Package_Translation->__construct()
+#2 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/inc/package-translation/inc/wpml-package-translation-helper.class.php on line 17

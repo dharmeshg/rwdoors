@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:32 CST6CDT] PHP Fatal error:  Class 'WPML_ST_String_Positions' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-string-translation/classes/string-tracking/class-wpml-st-string-positions-in-source.php on line 6

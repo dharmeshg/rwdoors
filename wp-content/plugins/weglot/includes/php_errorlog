@@ -1,0 +1,4 @@
+[23-Jul-2018 08:45:03 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WGUtils' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/weglot/includes/wg-settings-page.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/weglot/includes/wg-settings-page.php on line 4

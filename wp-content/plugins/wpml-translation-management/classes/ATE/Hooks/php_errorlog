@@ -1,0 +1,2 @@
+[23-Jul-2018 08:45:53 CST6CDT] PHP Fatal error:  Interface 'IWPML_Action' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/ATE/Hooks/class-wpml-tm-ate-jobs-actions.php on line 6
+[23-Jul-2018 08:45:55 CST6CDT] PHP Fatal error:  Interface 'IWPML_Action' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/ATE/Hooks/class-wpml-tm-ate-post-edit-actions.php on line 6

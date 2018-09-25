@@ -1,0 +1,11 @@
+[23-Jul-2018 08:45:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function noscript_notice() on null in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/term-taxonomy-menus/taxonomy-menu.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/term-taxonomy-menus/taxonomy-menu.php on line 13
+[23-Jul-2018 08:45:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/term-taxonomy-menus/wpml-taxonomy-translation-sync-display.class.php:6
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/term-taxonomy-menus/taxonomy-translation-display.class.php(4): WPML_Taxonomy_Translation_Sync_Display->__construct()
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/term-taxonomy-menus/wpml-taxonomy-translation-sync-display.class.php on line 6
+[23-Jul-2018 08:45:30 CST6CDT] PHP Fatal error:  Class 'WPML_WPDB_And_SP_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/term-taxonomy-menus/wpml-tax-menu-loader.class.php on line 3
+[23-Jul-2018 08:45:32 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'WPML_PLUGIN_PATH/menu/wpml-language-filter-bar.class.php' (include_path='.:/usr/local/php70/pear') in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/sitepress-multilingual-cms/menu/term-taxonomy-menus/wpml-term-language-filter.class.php on line 2

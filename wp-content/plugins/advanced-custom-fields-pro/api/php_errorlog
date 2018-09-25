@@ -1,0 +1,9 @@
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function acf() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/api/api-helpers.php:79
+Stack trace:
+#0 /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/api/api-helpers.php(2649): acf_update_setting('php_to_js_date_...', Array)
+#1 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/api/api-helpers.php on line 79
+[23-Jul-2018 08:45:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/api/api-template.php:977
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/advanced-custom-fields-pro/api/api-template.php on line 977

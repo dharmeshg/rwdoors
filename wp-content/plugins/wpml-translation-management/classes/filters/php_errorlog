@@ -1,0 +1,1 @@
+[23-Jul-2018 08:45:28 CST6CDT] PHP Fatal error:  Class 'WPML_TM_Record_User' not found in /home/rwdoors/public_html/testlanguagelatest/wp-content/plugins/wpml-translation-management/classes/filters/class-wpml-tm-post-target-lang-filter.php on line 3

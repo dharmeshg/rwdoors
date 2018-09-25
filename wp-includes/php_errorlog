@@ -1,0 +1,29 @@
+[11-Apr-2018 04:22:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[11-Apr-2018 04:41:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[01-May-2018 14:35:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/wp-includes/locale.php on line 10
+[11-May-2018 02:26:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[11-May-2018 02:39:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[07-Jun-2018 17:28:23 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/rwdoors/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[09-Jun-2018 15:11:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
+[09-Jun-2018 15:21:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rwdoors/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rwdoors/public_html/wp-includes/rss-functions.php on line 8
